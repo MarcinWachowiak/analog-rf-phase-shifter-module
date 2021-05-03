@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name rf_phase_shifter_5_8GHz-rescue)(type Legacy)(uri ${KIPRJMOD}/rf_phase_shifter_5_8GHz-rescue.lib)(options "")(descr ""))
   (lib (name analog_rf_phase_shifter_module)(type Legacy)(uri /home/marcin/Desktop/Analog-RF-phase-shifter-module/lib/analog_rf_phase_shifter_module.lib)(options "")(descr ""))
 )

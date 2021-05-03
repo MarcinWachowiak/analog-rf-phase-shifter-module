@@ -14,347 +14,410 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Wire Wire Line
-	1950 2050 1950 1900
+	2200 1850 2200 2050
 Wire Wire Line
-	1950 1550 1950 1700
+	2200 1450 2200 1650
 $Comp
-L power:GND #PWR0101
-U 1 1 6056D9DA
-P 1200 2300
-F 0 "#PWR0101" H 1200 2050 50  0001 C CNN
-F 1 "GND" H 1205 2127 50  0000 C CNN
-F 2 "" H 1200 2300 50  0001 C CNN
-F 3 "" H 1200 2300 50  0001 C CNN
-	1    1200 2300
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1200 2250 1200 2300
-$Comp
-L Connector:Conn_Coaxial J2
-U 1 1 6036E743
-P 1200 2050
-F 0 "J2" H 1300 2025 50  0000 L CNN
-F 1 "Conn_Coaxial" H 1300 1934 50  0000 L CNN
-F 2 "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" H 1200 2050 50  0001 C CNN
-F 3 " ~" H 1200 2050 50  0001 C CNN
-	1    1200 2050
+L analog_rf_phase_shifter_module:CON-SMA-EDGE-S J2
+U 1 1 6091DFA7
+P 1450 2050
+F 0 "J2" H 1600 2100 50  0000 C CNN
+F 1 "CON-SMA-EDGE-S" H 1900 2000 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:CON-SMA-EDGE-S" H 1600 -200 50  0001 L CNN
+F 3 "https://www.rfsolutions.co.uk/downloads/1498648656DS-CON-EDGE-SMA-4.pdf" H 1600 -100 50  0001 L CNN
+F 4 "No" H 1600 0   50  0001 L CNN "automotive"
+F 5 "Conn" H 1600 100 50  0001 L CNN "category"
+F 6 "Gold" H 1600 200 50  0001 L CNN "contact material"
+F 7 "Connectors" H 1600 300 50  0001 L CNN "device class L1"
+F 8 "RF / Coaxial Connectors" H 1600 400 50  0001 L CNN "device class L2"
+F 9 "unset" H 1600 500 50  0001 L CNN "device class L3"
+F 10 "CONN SMA JACK STR EDGE MNT" H 1600 600 50  0001 L CNN "digikey description"
+F 11 "CON-SMA-EDGE-S-ND" H 1600 700 50  0001 L CNN "digikey part number"
+F 12 "https://forum.upverter.com/uploads/default/original/3X/b/e/be75b907af57498775929d6d9099689c472e0307.pdf" H 1600 800 50  0001 L CNN "footprint url"
+F 13 "18GHz" H 1600 900 50  0001 L CNN "frequency"
+F 14 "6.35mm" H 1600 1000 50  0001 L CNN "height"
+F 15 "50Ω" H 1600 1100 50  0001 L CNN "impedance"
+F 16 "yes" H 1600 1200 50  0001 L CNN "is connector"
+F 17 "yes" H 1600 1300 50  0001 L CNN "is female"
+F 18 "Yes" H 1600 1400 50  0001 L CNN "lead free"
+F 19 "311856913ef645a6" H 1600 1500 50  0001 L CNN "library id"
+F 20 "RF Solutions Ltd." H 1600 1600 50  0001 L CNN "manufacturer"
+F 21 "1" H 1600 1700 50  0001 L CNN "number of contacts"
+F 22 "CONN_JACK" H 1600 1800 50  0001 L CNN "package"
+F 23 "Yes" H 1600 1900 50  0001 L CNN "rohs"
+F 24 "true" H 1600 2000 50  0001 L CNN "shielding"
+	1    1450 2050
 	-1   0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0102
-U 1 1 6056DF5B
-P 1200 1800
-F 0 "#PWR0102" H 1200 1550 50  0001 C CNN
-F 1 "GND" H 1205 1627 50  0000 C CNN
-F 2 "" H 1200 1800 50  0001 C CNN
-F 3 "" H 1200 1800 50  0001 C CNN
-	1    1200 1800
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1200 1750 1200 1800
-$Comp
-L Connector:Conn_Coaxial J1
-U 1 1 6036E994
-P 1200 1550
-F 0 "J1" H 1300 1525 50  0000 L CNN
-F 1 "Conn_Coaxial" H 1300 1434 50  0000 L CNN
-F 2 "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" H 1200 1550 50  0001 C CNN
-F 3 " ~" H 1200 1550 50  0001 C CNN
-	1    1200 1550
+L analog_rf_phase_shifter_module:CON-SMA-EDGE-S J1
+U 1 1 60919D79
+P 1450 1450
+F 0 "J1" H 1600 1500 50  0000 C CNN
+F 1 "CON-SMA-EDGE-S" H 1900 1400 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:CON-SMA-EDGE-S" H 1600 -800 50  0001 L CNN
+F 3 "https://www.rfsolutions.co.uk/downloads/1498648656DS-CON-EDGE-SMA-4.pdf" H 1600 -700 50  0001 L CNN
+F 4 "No" H 1600 -600 50  0001 L CNN "automotive"
+F 5 "Conn" H 1600 -500 50  0001 L CNN "category"
+F 6 "Gold" H 1600 -400 50  0001 L CNN "contact material"
+F 7 "Connectors" H 1600 -300 50  0001 L CNN "device class L1"
+F 8 "RF / Coaxial Connectors" H 1600 -200 50  0001 L CNN "device class L2"
+F 9 "unset" H 1600 -100 50  0001 L CNN "device class L3"
+F 10 "CONN SMA JACK STR EDGE MNT" H 1600 0   50  0001 L CNN "digikey description"
+F 11 "CON-SMA-EDGE-S-ND" H 1600 100 50  0001 L CNN "digikey part number"
+F 12 "https://forum.upverter.com/uploads/default/original/3X/b/e/be75b907af57498775929d6d9099689c472e0307.pdf" H 1600 200 50  0001 L CNN "footprint url"
+F 13 "18GHz" H 1600 300 50  0001 L CNN "frequency"
+F 14 "6.35mm" H 1600 400 50  0001 L CNN "height"
+F 15 "50Ω" H 1600 500 50  0001 L CNN "impedance"
+F 16 "yes" H 1600 600 50  0001 L CNN "is connector"
+F 17 "yes" H 1600 700 50  0001 L CNN "is female"
+F 18 "Yes" H 1600 800 50  0001 L CNN "lead free"
+F 19 "311856913ef645a6" H 1600 900 50  0001 L CNN "library id"
+F 20 "RF Solutions Ltd." H 1600 1000 50  0001 L CNN "manufacturer"
+F 21 "1" H 1600 1100 50  0001 L CNN "number of contacts"
+F 22 "CONN_JACK" H 1600 1200 50  0001 L CNN "package"
+F 23 "Yes" H 1600 1300 50  0001 L CNN "rohs"
+F 24 "true" H 1600 1400 50  0001 L CNN "shielding"
+	1    1450 1450
 	-1   0    0    -1  
 $EndComp
-Wire Wire Line
-	1800 2050 1950 2050
-Wire Wire Line
-	1400 2050 1500 2050
 $Comp
-L Device:C C2
-U 1 1 603774E1
-P 1650 2050
-F 0 "C2" V 1902 2050 50  0000 C CNN
-F 1 "100pF" V 1811 2050 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric" H 1688 1900 50  0001 C CNN
-F 3 "~" H 1650 2050 50  0001 C CNN
-	1    1650 2050
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	1400 1550 1500 1550
-Wire Wire Line
-	1800 1550 1950 1550
-$Comp
-L Device:C C1
-U 1 1 60376E80
-P 1650 1550
-F 0 "C1" V 1398 1550 50  0000 C CNN
-F 1 "100pF" V 1489 1550 50  0000 C CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric" H 1688 1400 50  0001 C CNN
-F 3 "~" H 1650 1550 50  0001 C CNN
-	1    1650 1550
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	1950 1900 2200 1900
-Wire Wire Line
-	1950 1700 2200 1700
-Wire Wire Line
-	5000 1900 5000 1950
-Wire Wire Line
-	5000 1700 5000 1650
-Wire Wire Line
-	4450 1650 4450 1700
-Connection ~ 4450 1900
-Wire Wire Line
-	4450 1950 4450 1900
-Connection ~ 3900 1900
-Wire Wire Line
-	5000 2250 5000 2300
-Wire Wire Line
-	4450 2250 4450 2300
-Wire Wire Line
-	5000 1300 5000 1350
-Wire Wire Line
-	4450 1300 4450 1350
-$Comp
-L power:GND #PWR0103
-U 1 1 6057719B
-P 5000 1300
-F 0 "#PWR0103" H 5000 1050 50  0001 C CNN
-F 1 "GND" H 5005 1127 50  0000 C CNN
-F 2 "" H 5000 1300 50  0001 C CNN
-F 3 "" H 5000 1300 50  0001 C CNN
-	1    5000 1300
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:GND #PWR0104
-U 1 1 60576E78
-P 4450 1300
-F 0 "#PWR0104" H 4450 1050 50  0001 C CNN
-F 1 "GND" H 4455 1127 50  0000 C CNN
-F 2 "" H 4450 1300 50  0001 C CNN
-F 3 "" H 4450 1300 50  0001 C CNN
-	1    4450 1300
-	-1   0    0    1   
-$EndComp
-$Comp
-L power:GND #PWR0105
-U 1 1 60576A19
-P 5000 2300
-F 0 "#PWR0105" H 5000 2050 50  0001 C CNN
-F 1 "GND" H 5005 2127 50  0000 C CNN
-F 2 "" H 5000 2300 50  0001 C CNN
-F 3 "" H 5000 2300 50  0001 C CNN
-	1    5000 2300
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0106
-U 1 1 605766D6
-P 4450 2300
-F 0 "#PWR0106" H 4450 2050 50  0001 C CNN
-F 1 "GND" H 4455 2127 50  0000 C CNN
-F 2 "" H 4450 2300 50  0001 C CNN
-F 3 "" H 4450 2300 50  0001 C CNN
-	1    4450 2300
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	3350 1150 3350 1200
-Connection ~ 3750 950 
-Wire Wire Line
-	3900 950  3750 950 
-Wire Wire Line
-	3900 1150 3900 950 
-Wire Wire Line
-	3750 950  3750 1150
-Wire Wire Line
-	3550 950  3750 950 
-$Comp
-L power:GND #PWR0107
-U 1 1 60572469
-P 3350 1200
-F 0 "#PWR0107" H 3350 950 50  0001 C CNN
-F 1 "GND" H 3355 1027 50  0000 C CNN
-F 2 "" H 3350 1200 50  0001 C CNN
-F 3 "" H 3350 1200 50  0001 C CNN
-	1    3350 1200
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_Coaxial J3
-U 1 1 6036D6F1
-P 3350 950
-F 0 "J3" H 3450 925 50  0000 L CNN
-F 1 "Conn_Coaxial" H 3450 834 50  0000 L CNN
-F 2 "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" H 3350 950 50  0001 C CNN
-F 3 " ~" H 3350 950 50  0001 C CNN
-	1    3350 950 
+L analog_rf_phase_shifter_module:CON-SMA-EDGE-S J3
+U 1 1 6090E997
+P 3600 900
+F 0 "J3" H 3528 1138 50  0000 C CNN
+F 1 "CON-SMA-EDGE-S" H 3528 1047 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:CON-SMA-EDGE-S" H 3750 -1350 50  0001 L CNN
+F 3 "https://www.rfsolutions.co.uk/downloads/1498648656DS-CON-EDGE-SMA-4.pdf" H 3750 -1250 50  0001 L CNN
+F 4 "No" H 3750 -1150 50  0001 L CNN "automotive"
+F 5 "Conn" H 3750 -1050 50  0001 L CNN "category"
+F 6 "Gold" H 3750 -950 50  0001 L CNN "contact material"
+F 7 "Connectors" H 3750 -850 50  0001 L CNN "device class L1"
+F 8 "RF / Coaxial Connectors" H 3750 -750 50  0001 L CNN "device class L2"
+F 9 "unset" H 3750 -650 50  0001 L CNN "device class L3"
+F 10 "CONN SMA JACK STR EDGE MNT" H 3750 -550 50  0001 L CNN "digikey description"
+F 11 "CON-SMA-EDGE-S-ND" H 3750 -450 50  0001 L CNN "digikey part number"
+F 12 "https://forum.upverter.com/uploads/default/original/3X/b/e/be75b907af57498775929d6d9099689c472e0307.pdf" H 3750 -350 50  0001 L CNN "footprint url"
+F 13 "18GHz" H 3750 -250 50  0001 L CNN "frequency"
+F 14 "6.35mm" H 3750 -150 50  0001 L CNN "height"
+F 15 "50Ω" H 3750 -50 50  0001 L CNN "impedance"
+F 16 "yes" H 3750 50  50  0001 L CNN "is connector"
+F 17 "yes" H 3750 150 50  0001 L CNN "is female"
+F 18 "Yes" H 3750 250 50  0001 L CNN "lead free"
+F 19 "311856913ef645a6" H 3750 350 50  0001 L CNN "library id"
+F 20 "RF Solutions Ltd." H 3750 450 50  0001 L CNN "manufacturer"
+F 21 "1" H 3750 550 50  0001 L CNN "number of contacts"
+F 22 "CONN_JACK" H 3750 650 50  0001 L CNN "package"
+F 23 "Yes" H 3750 750 50  0001 L CNN "rohs"
+F 24 "true" H 3750 850 50  0001 L CNN "shielding"
+	1    3600 900 
 	-1   0    0    -1  
 $EndComp
-Wire Wire Line
-	3900 1900 3900 1450
-Wire Wire Line
-	3700 1900 3900 1900
-Wire Wire Line
-	3750 1700 3750 1450
-Wire Wire Line
-	3700 1700 3750 1700
-Wire Wire Line
-	3800 1800 3800 2000
-Wire Wire Line
-	3700 1800 3800 1800
-Wire Wire Line
-	2150 1800 2150 2000
-Wire Wire Line
-	2200 1800 2150 1800
 $Comp
-L power:GND #PWR0108
-U 1 1 6056E466
-P 3800 2000
-F 0 "#PWR0108" H 3800 1750 50  0001 C CNN
-F 1 "GND" H 3805 1827 50  0000 C CNN
-F 2 "" H 3800 2000 50  0001 C CNN
-F 3 "" H 3800 2000 50  0001 C CNN
-	1    3800 2000
+L analog_rf_phase_shifter_module:C5060J5003AHF FL1
+U 1 1 60906106
+P 2450 1650
+F 0 "FL1" H 3200 1915 50  0000 C CNN
+F 1 "C5060J5003AHF" H 3200 1824 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:C5060J5003AHF" H 3800 1750 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/C5060J5003AHF.pdf" H 3800 1650 50  0001 L CNN
+F 4 "Signal Conditioning 5-6GHz IL=.4dB 3dB 90 Deg." H 3800 1550 50  0001 L CNN "Description"
+F 5 "0.73" H 3800 1450 50  0001 L CNN "Height"
+F 6 "ANAREN" H 3800 1350 50  0001 L CNN "Manufacturer_Name"
+F 7 "C5060J5003AHF" H 3800 1250 50  0001 L CNN "Manufacturer_Part_Number"
+	1    2450 1650
+	1    0    0    -1  
+$EndComp
+Wire Notes Line
+	4250 1900 4550 1900
+Wire Notes Line
+	4250 1800 4250 1900
+Wire Notes Line
+	4550 1800 4250 1800
+Wire Notes Line
+	4550 1900 4550 1800
+Wire Notes Line
+	4850 1800 4850 1900
+Wire Notes Line
+	5150 1800 4850 1800
+Wire Notes Line
+	5150 1900 5150 1800
+Wire Notes Line
+	4850 1900 5150 1900
+Wire Notes Line
+	4850 1600 4850 1700
+Wire Notes Line
+	5150 1600 4850 1600
+Wire Notes Line
+	5150 1700 5150 1600
+Wire Notes Line
+	4850 1700 5150 1700
+Wire Notes Line
+	4250 1600 4250 1700
+Wire Notes Line
+	4550 1600 4250 1600
+Wire Notes Line
+	4550 1700 4550 1600
+Wire Notes Line
+	4250 1700 4550 1700
+Text Notes 4195 1785 0    50   ~ 0
+λ/4: L=6.1, W=1.092 [mm]
+Wire Wire Line
+	4000 1650 4700 1650
+Connection ~ 4000 1650
+Connection ~ 4700 1650
+Wire Wire Line
+	4150 1850 4700 1850
+Wire Wire Line
+	4700 1850 5250 1850
+Wire Wire Line
+	4700 1650 5250 1650
+$Comp
+L Device:L L1
+U 1 1 60374381
+P 4000 1250
+F 0 "L1" H 4053 1296 50  0000 L CNN
+F 1 "1u" H 4053 1205 50  0000 L CNN
+F 2 "Inductor_SMD:L_0603_1608Metric" H 4000 1250 50  0001 C CNN
+F 3 "~" H 4000 1250 50  0001 C CNN
+	1    4000 1250
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0109
-U 1 1 6056D295
-P 2150 2000
-F 0 "#PWR0109" H 2150 1750 50  0001 C CNN
-F 1 "GND" H 2155 1827 50  0000 C CNN
-F 2 "" H 2150 2000 50  0001 C CNN
-F 3 "" H 2150 2000 50  0001 C CNN
-	1    2150 2000
+L Device:L L2
+U 1 1 6037477C
+P 4150 1250
+F 0 "L2" H 4203 1296 50  0000 L CNN
+F 1 "1u" H 4203 1205 50  0000 L CNN
+F 2 "Inductor_SMD:L_0603_1608Metric" H 4150 1250 50  0001 C CNN
+F 3 "~" H 4150 1250 50  0001 C CNN
+	1    4150 1250
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Capacitance D4
-U 1 1 60376509
-P 5000 2100
-F 0 "D4" H 5000 2317 50  0000 C CNN
-F 1 "BBY66_02V" H 5000 2226 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-523" H 5000 2100 50  0001 C CNN
-F 3 "~" H 5000 2100 50  0001 C CNN
-	1    5000 2100
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:D_Capacitance D3
-U 1 1 60375EF1
-P 5000 1500
-F 0 "D3" H 5000 1717 50  0000 C CNN
-F 1 "BBY66_02V" H 5000 1626 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-523" H 5000 1500 50  0001 C CNN
-F 3 "~" H 5000 1500 50  0001 C CNN
-	1    5000 1500
+L Device:D_Capacitance D1
+U 1 1 60375266
+P 4700 1450
+F 0 "D1" H 4700 1667 50  0000 C CNN
+F 1 "BBY66_02V" H 4700 1576 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 4700 1450 50  0001 C CNN
+F 3 "~" H 4700 1450 50  0001 C CNN
+	1    4700 1450
 	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:D_Capacitance D2
 U 1 1 60375884
-P 4450 2100
-F 0 "D2" H 4450 2317 50  0000 C CNN
-F 1 "BBY66_02V" H 4450 2226 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-523" H 4450 2100 50  0001 C CNN
-F 3 "~" H 4450 2100 50  0001 C CNN
-	1    4450 2100
+P 4700 2050
+F 0 "D2" H 4700 2267 50  0000 C CNN
+F 1 "BBY66_02V" H 4700 2176 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 4700 2050 50  0001 C CNN
+F 3 "~" H 4700 2050 50  0001 C CNN
+	1    4700 2050
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:D_Capacitance D1
-U 1 1 60375266
-P 4450 1500
-F 0 "D1" H 4450 1717 50  0000 C CNN
-F 1 "BBY66_02V" H 4450 1626 50  0000 C CNN
-F 2 "Diode_SMD:D_SOD-523" H 4450 1500 50  0001 C CNN
-F 3 "~" H 4450 1500 50  0001 C CNN
-	1    4450 1500
+L Device:D_Capacitance D3
+U 1 1 60375EF1
+P 5250 1450
+F 0 "D3" H 5250 1667 50  0000 C CNN
+F 1 "BBY66_02V" H 5250 1576 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 5250 1450 50  0001 C CNN
+F 3 "~" H 5250 1450 50  0001 C CNN
+	1    5250 1450
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:L L2
-U 1 1 6037477C
-P 3900 1300
-F 0 "L2" H 3953 1346 50  0000 L CNN
-F 1 "1u" H 3953 1255 50  0000 L CNN
-F 2 "Inductor_SMD:L_0603_1608Metric" H 3900 1300 50  0001 C CNN
-F 3 "~" H 3900 1300 50  0001 C CNN
-	1    3900 1300
+L Device:D_Capacitance D4
+U 1 1 60376509
+P 5250 2050
+F 0 "D4" H 5250 2267 50  0000 C CNN
+F 1 "BBY66_02V" H 5250 2176 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-523" H 5250 2050 50  0001 C CNN
+F 3 "~" H 5250 2050 50  0001 C CNN
+	1    5250 2050
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 6056D295
+P 2400 1950
+F 0 "#PWR0109" H 2400 1700 50  0001 C CNN
+F 1 "GND" H 2405 1777 50  0000 C CNN
+F 2 "" H 2400 1950 50  0001 C CNN
+F 3 "" H 2400 1950 50  0001 C CNN
+	1    2400 1950
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:L L1
-U 1 1 60374381
-P 3750 1300
-F 0 "L1" H 3803 1346 50  0000 L CNN
-F 1 "1u" H 3803 1255 50  0000 L CNN
-F 2 "Inductor_SMD:L_0603_1608Metric" H 3750 1300 50  0001 C CNN
-F 3 "~" H 3750 1300 50  0001 C CNN
-	1    3750 1300
+L power:GND #PWR0108
+U 1 1 6056E466
+P 4050 1950
+F 0 "#PWR0108" H 4050 1700 50  0001 C CNN
+F 1 "GND" H 4055 1777 50  0000 C CNN
+F 2 "" H 4050 1950 50  0001 C CNN
+F 3 "" H 4050 1950 50  0001 C CNN
+	1    4050 1950
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4450 1700 5000 1700
+	2450 1750 2400 1750
 Wire Wire Line
-	4450 1900 5000 1900
+	2400 1750 2400 1950
 Wire Wire Line
-	3900 1900 4450 1900
-Connection ~ 4450 1700
-Connection ~ 3750 1700
+	3950 1750 4050 1750
 Wire Wire Line
-	3750 1700 4450 1700
-Text Notes 3945 1835 0    50   ~ 0
-λ/4: L=6.1, W=1.092 [mm]
-Wire Notes Line
-	4000 1750 4300 1750
-Wire Notes Line
-	4300 1750 4300 1650
-Wire Notes Line
-	4300 1650 4000 1650
-Wire Notes Line
-	4000 1650 4000 1750
-Wire Notes Line
-	4600 1750 4900 1750
-Wire Notes Line
-	4900 1750 4900 1650
-Wire Notes Line
-	4900 1650 4600 1650
-Wire Notes Line
-	4600 1650 4600 1750
-Wire Notes Line
-	4600 1950 4900 1950
-Wire Notes Line
-	4900 1950 4900 1850
-Wire Notes Line
-	4900 1850 4600 1850
-Wire Notes Line
-	4600 1850 4600 1950
-Wire Notes Line
-	4300 1950 4300 1850
-Wire Notes Line
-	4300 1850 4000 1850
-Wire Notes Line
-	4000 1850 4000 1950
-Wire Notes Line
-	4000 1950 4300 1950
+	4050 1750 4050 1950
+Wire Wire Line
+	3950 1650 4000 1650
+Wire Wire Line
+	4000 1650 4000 1400
+Wire Wire Line
+	3950 1850 4150 1850
+Wire Wire Line
+	4150 1850 4150 1400
 $Comp
-L analog_rf_phase_shifter_module:C5060J5003AHF FL1
-U 1 1 60906106
-P 2200 1700
-F 0 "FL1" H 2950 1965 50  0000 C CNN
-F 1 "C5060J5003AHF" H 2950 1874 50  0000 C CNN
-F 2 "analog_rf_phase_shifter_module:C5060J5003AHF" H 3550 1800 50  0001 L CNN
-F 3 "https://componentsearchengine.com/Datasheets/1/C5060J5003AHF.pdf" H 3550 1700 50  0001 L CNN
-F 4 "Signal Conditioning 5-6GHz IL=.4dB 3dB 90 Deg." H 3550 1600 50  0001 L CNN "Description"
-F 5 "0.73" H 3550 1500 50  0001 L CNN "Height"
-F 6 "ANAREN" H 3550 1400 50  0001 L CNN "Manufacturer_Name"
-F 7 "C5060J5003AHF" H 3550 1300 50  0001 L CNN "Manufacturer_Part_Number"
-	1    2200 1700
+L power:GND #PWR0107
+U 1 1 60572469
+P 3600 1150
+F 0 "#PWR0107" H 3600 900 50  0001 C CNN
+F 1 "GND" H 3605 977 50  0000 C CNN
+F 2 "" H 3600 1150 50  0001 C CNN
+F 3 "" H 3600 1150 50  0001 C CNN
+	1    3600 1150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 900  4000 900 
+Wire Wire Line
+	4000 900  4000 1100
+Wire Wire Line
+	4150 1100 4150 900 
+Wire Wire Line
+	4150 900  4000 900 
+Connection ~ 4000 900 
+Wire Wire Line
+	3600 1100 3600 1150
+$Comp
+L power:GND #PWR0106
+U 1 1 605766D6
+P 4700 2250
+F 0 "#PWR0106" H 4700 2000 50  0001 C CNN
+F 1 "GND" H 4705 2077 50  0000 C CNN
+F 2 "" H 4700 2250 50  0001 C CNN
+F 3 "" H 4700 2250 50  0001 C CNN
+	1    4700 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 60576A19
+P 5250 2250
+F 0 "#PWR0105" H 5250 2000 50  0001 C CNN
+F 1 "GND" H 5255 2077 50  0000 C CNN
+F 2 "" H 5250 2250 50  0001 C CNN
+F 3 "" H 5250 2250 50  0001 C CNN
+	1    5250 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 60576E78
+P 4700 1250
+F 0 "#PWR0104" H 4700 1000 50  0001 C CNN
+F 1 "GND" H 4705 1077 50  0000 C CNN
+F 2 "" H 4700 1250 50  0001 C CNN
+F 3 "" H 4700 1250 50  0001 C CNN
+	1    4700 1250
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 6057719B
+P 5250 1250
+F 0 "#PWR0103" H 5250 1000 50  0001 C CNN
+F 1 "GND" H 5255 1077 50  0000 C CNN
+F 2 "" H 5250 1250 50  0001 C CNN
+F 3 "" H 5250 1250 50  0001 C CNN
+	1    5250 1250
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4700 1250 4700 1300
+Wire Wire Line
+	5250 1250 5250 1300
+Wire Wire Line
+	4700 2200 4700 2250
+Wire Wire Line
+	5250 2200 5250 2250
+Connection ~ 4150 1850
+Wire Wire Line
+	4700 1900 4700 1850
+Connection ~ 4700 1850
+Wire Wire Line
+	4700 1600 4700 1650
+Wire Wire Line
+	5250 1650 5250 1600
+Wire Wire Line
+	5250 1850 5250 1900
+Wire Wire Line
+	2200 1650 2450 1650
+Wire Wire Line
+	2200 1850 2450 1850
+$Comp
+L Device:C C1
+U 1 1 60376E80
+P 1900 1450
+F 0 "C1" V 1648 1450 50  0000 C CNN
+F 1 "100pF" V 1739 1450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1938 1300 50  0001 C CNN
+F 3 "~" H 1900 1450 50  0001 C CNN
+	1    1900 1450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2050 1450 2200 1450
+Wire Wire Line
+	1650 1450 1750 1450
+$Comp
+L Device:C C2
+U 1 1 603774E1
+P 1900 2050
+F 0 "C2" V 2152 2050 50  0000 C CNN
+F 1 "100pF" V 2061 2050 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1938 1900 50  0001 C CNN
+F 3 "~" H 1900 2050 50  0001 C CNN
+	1    1900 2050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1650 2050 1750 2050
+Wire Wire Line
+	2050 2050 2200 2050
+Wire Wire Line
+	1450 1650 1450 1700
+$Comp
+L power:GND #PWR0102
+U 1 1 6056DF5B
+P 1450 1700
+F 0 "#PWR0102" H 1450 1450 50  0001 C CNN
+F 1 "GND" H 1455 1527 50  0000 C CNN
+F 2 "" H 1450 1700 50  0001 C CNN
+F 3 "" H 1450 1700 50  0001 C CNN
+	1    1450 1700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 2250 1450 2300
+$Comp
+L power:GND #PWR0101
+U 1 1 6056D9DA
+P 1450 2300
+F 0 "#PWR0101" H 1450 2050 50  0001 C CNN
+F 1 "GND" H 1455 2127 50  0000 C CNN
+F 2 "" H 1450 2300 50  0001 C CNN
+F 3 "" H 1450 2300 50  0001 C CNN
+	1    1450 2300
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

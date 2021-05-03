@@ -1,31 +1,6 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Connector_Conn_Coaxial
-#
-DEF Connector_Conn_Coaxial J 0 40 Y N 1 F N
-F0 "J" 10 120 50 H V C CNN
-F1 "Connector_Conn_Coaxial" 115 0 50 V V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- *BNC*
- *SMA*
- *SMB*
- *SMC*
- *Cinch*
-$ENDFPLIST
-DRAW
-A -2 0 71 1636 0 0 1 10 N -70 20 70 0
-A -1 0 71 0 -1638 0 1 10 N 70 0 -70 -20
-C 0 0 20 0 1 8 N
-P 2 0 1 0 -100 0 -20 0 N
-P 2 0 1 0 0 -100 0 -70 N
-X In 1 -200 0 100 R 50 50 1 1 P
-X Ext 2 0 -200 100 U 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
 # Device_C
 #
 DEF Device_C C 0 10 N Y 1 F N
@@ -112,6 +87,45 @@ X ISOLATED 3 0 -200 200 R 50 50 0 0 P
 X DIRECT 4 1500 -200 200 L 50 50 0 0 P
 X GND_2 5 1500 -100 200 L 50 50 0 0 P
 X COUPLED 6 1500 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# analog_rf_phase_shifter_module_CON-SMA-EDGE-S
+#
+DEF analog_rf_phase_shifter_module_CON-SMA-EDGE-S J 0 0 Y Y 1 F N
+F0 "J" 100 -50 50 H V L CNN
+F1 "analog_rf_phase_shifter_module_CON-SMA-EDGE-S" 100 50 50 H V L CNN
+F2 "analog_rf_phase_shifter_module:CON-SMA-EDGE-S" 150 -2250 50 H I L CNN
+F3 "" 150 -2150 50 H I L CNN
+F4 "No" 150 -2050 50 H I L CNN "automotive"
+F5 "Conn" 150 -1950 50 H I L CNN "category"
+F6 "Gold" 150 -1850 50 H I L CNN "contact material"
+F7 "Connectors" 150 -1750 50 H I L CNN "device class L1"
+F8 "RF / Coaxial Connectors" 150 -1650 50 H I L CNN "device class L2"
+F9 "unset" 150 -1550 50 H I L CNN "device class L3"
+F10 "CONN SMA JACK STR EDGE MNT" 150 -1450 50 H I L CNN "digikey description"
+F11 "CON-SMA-EDGE-S-ND" 150 -1350 50 H I L CNN "digikey part number"
+F12 "https://forum.upverter.com/uploads/default/original/3X/b/e/be75b907af57498775929d6d9099689c472e0307.pdf" 150 -1250 50 H I L CNN "footprint url"
+F13 "18GHz" 150 -1150 50 H I L CNN "frequency"
+F14 "6.35mm" 150 -1050 50 H I L CNN "height"
+F15 "50Ω" 150 -950 50 H I L CNN "impedance"
+F16 "yes" 150 -850 50 H I L CNN "is connector"
+F17 "yes" 150 -750 50 H I L CNN "is female"
+F18 "Yes" 150 -650 50 H I L CNN "lead free"
+F19 "311856913ef645a6" 150 -550 50 H I L CNN "library id"
+F20 "RF Solutions Ltd." 150 -450 50 H I L CNN "manufacturer"
+F21 "1" 150 -350 50 H I L CNN "number of contacts"
+F22 "CONN_JACK" 150 -250 50 H I L CNN "package"
+F23 "Yes" 150 -150 50 H I L CNN "rohs"
+F24 "true" 150 -50 50 H I L CNN "shielding"
+DRAW
+A -2 0 71 1636 0 1 1 10 N -70 20 70 0
+A -1 0 71 0 -1638 1 1 10 N 70 0 -70 -20
+C 0 0 20 1 1 8 N
+P 2 1 1 0 -100 0 -20 0 N
+P 2 1 1 0 0 -100 0 -70 N
+X In 1 -200 0 100 R 50 50 1 1 P
+X Ext 2 0 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

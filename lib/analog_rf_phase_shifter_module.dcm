@@ -8,4 +8,9 @@ $CMP C5060J5003AHF
 F https://componentsearchengine.com/Datasheets/1/C5060J5003AHF.pdf
 $ENDCMP
 #
+$CMP CON-SMA-EDGE-S
+D CON-SMA-EDGE-S
+F https://www.rfsolutions.co.uk/downloads/1498648656DS-CON-EDGE-SMA-4.pdf
+$ENDCMP
+#
 #End Doc Library
