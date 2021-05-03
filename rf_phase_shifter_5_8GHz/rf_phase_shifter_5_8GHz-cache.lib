@@ -93,19 +93,17 @@ X 2 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# RF_C2327J5003AHF
+# analog_rf_phase_shifter_module_C5060J5003AHF
 #
-DEF RF_C2327J5003AHF FL 0 30 Y Y 1 F N
+DEF analog_rf_phase_shifter_module_C5060J5003AHF FL 0 30 Y Y 1 F N
 F0 "FL" 1350 300 50 H V L CNN
-F1 "RF_C2327J5003AHF" 1350 200 50 H V L CNN
-F2 "C2327J5003AHF" 1350 100 50 H I L CNN
-F3 "https://componentsearchengine.com/Datasheets/1/C2327J5003AHF.pdf" 1350 0 50 H I L CNN
-F4 "Signal Conditioning 2.3-2.7GHz IL=.4dB 3dB 90 Deg." 1350 -100 50 H I L CNN "Description"
+F1 "analog_rf_phase_shifter_module_C5060J5003AHF" 1350 200 50 H V L CNN
+F2 "analog_rf_phase_shifter_module:C5060J5003AHF" 1350 100 50 H I L CNN
+F3 "" 1350 0 50 H I L CNN
+F4 "Signal Conditioning 5-6GHz IL=.4dB 3dB 90 Deg." 1350 -100 50 H I L CNN "Description"
 F5 "0.73" 1350 -200 50 H I L CNN "Height"
 F6 "ANAREN" 1350 -300 50 H I L CNN "Manufacturer_Name"
-F7 "C2327J5003AHF" 1350 -400 50 H I L CNN "Manufacturer_Part_Number"
-F8 "620-C2327J5003AHF" 1350 -500 50 H I L CNN "Mouser Part Number"
-F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=620-C2327J5003AHF" 1350 -600 50 H I L CNN "Mouser Price/Stock"
+F7 "C5060J5003AHF" 1350 -400 50 H I L CNN "Manufacturer_Part_Number"
 DRAW
 P 5 0 1 6 200 100 1300 100 1300 -300 200 -300 200 100 N
 X INPUT 1 0 0 200 R 50 50 0 0 P

@@ -1,13 +1,13 @@
 EESchema Schematic File Version 4
 EELAYER 30 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr User 8268 5827
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Analog RF phase shifter 5,7-5,8GHz"
 Date ""
-Rev ""
-Comp ""
+Rev "1.0.0"
+Comp "Marcin Wachowiak, Poland"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -109,23 +109,6 @@ Connection ~ 4450 1900
 Wire Wire Line
 	4450 1950 4450 1900
 Connection ~ 3900 1900
-$Comp
-L RF:C2327J5003AHF FL1
-U 1 1 60586F9C
-P 2200 1700
-F 0 "FL1" H 2950 1965 50  0000 C CNN
-F 1 "C2327J5003AHF" H 2950 1874 50  0000 C CNN
-F 2 "C2327J5003AHF" H 3550 1800 50  0001 L CNN
-F 3 "https://componentsearchengine.com/Datasheets/1/C2327J5003AHF.pdf" H 3550 1700 50  0001 L CNN
-F 4 "Signal Conditioning 2.3-2.7GHz IL=.4dB 3dB 90 Deg." H 3550 1600 50  0001 L CNN "Description"
-F 5 "0.73" H 3550 1500 50  0001 L CNN "Height"
-F 6 "ANAREN" H 3550 1400 50  0001 L CNN "Manufacturer_Name"
-F 7 "C2327J5003AHF" H 3550 1300 50  0001 L CNN "Manufacturer_Part_Number"
-F 8 "620-C2327J5003AHF" H 3550 1200 50  0001 L CNN "Mouser Part Number"
-F 9 "https://www.mouser.com/Search/Refine.aspx?Keyword=620-C2327J5003AHF" H 3550 1100 50  0001 L CNN "Mouser Price/Stock"
-	1    2200 1700
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	5000 2250 5000 2300
 Wire Wire Line
@@ -359,4 +342,19 @@ Wire Notes Line
 	4000 1850 4000 1950
 Wire Notes Line
 	4000 1950 4300 1950
+$Comp
+L analog_rf_phase_shifter_module:C5060J5003AHF FL1
+U 1 1 60906106
+P 2200 1700
+F 0 "FL1" H 2950 1965 50  0000 C CNN
+F 1 "C5060J5003AHF" H 2950 1874 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:C5060J5003AHF" H 3550 1800 50  0001 L CNN
+F 3 "https://componentsearchengine.com/Datasheets/1/C5060J5003AHF.pdf" H 3550 1700 50  0001 L CNN
+F 4 "Signal Conditioning 5-6GHz IL=.4dB 3dB 90 Deg." H 3550 1600 50  0001 L CNN "Description"
+F 5 "0.73" H 3550 1500 50  0001 L CNN "Height"
+F 6 "ANAREN" H 3550 1400 50  0001 L CNN "Manufacturer_Name"
+F 7 "C5060J5003AHF" H 3550 1300 50  0001 L CNN "Manufacturer_Part_Number"
+	1    2200 1700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
