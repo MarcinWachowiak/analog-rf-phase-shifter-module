@@ -1,0 +1,31 @@
+# Qucs 0.0.20  /home/marcin/Desktop/Projects/Analog-RF-phase-shifter-module/rf_phase_shifter_2_45GHz/qucs_sim_prj/rf_phase_shifter_2_45GHz.sch
+
+.Def:bby66_02v_sc79 _net2 _net0
+L:L3 _net1 _net0 L="0.1 nH" I=""
+L:L1 _net2 _net3 L="0.15 nH" I=""
+L:L2 _net3 _net4 L="0.45 nH" I=""
+C:C1 _net3 _net1 C="90 fF" V=""
+Diode:D1 _net1 _net4 Is="67.148E-16" N="1.10054" Cj0="146.2 pF" M="3.1" Vj="0.35 V" Fc="0.5" Cp="0.0 fF" Isr="0.0" Nr="2.0" Rs="1e-6 Ohm" Tt="88 ns" Ikf="0" Kf="0.0" Af="1.0" Ffe="1.0" Bv="15 V" Ibv="5 uA" Temp="26.85" Xti="3.0" Eg="1.11" Tbv="0.0" Trs="0.0" Ttt1="0.0" Ttt2="0.0" Tm1="0.0" Tm2="0.0" Tnom="26.85" Area="1.0"
+.Def:End
+
+C:C1 in _net0 C="100 pF" V=""
+C:C2 out _net1 C="100 pF" V=""
+R:R1 gnd out R="50 Ohm" Temp="26.85" Tc1="0.0" Tc2="0.0" Tnom="26.85"
+L:L2 _net2 bias L="1 uH" I=""
+L:L1 _net3 bias L="1 uH" I=""
+MLIN:MS2 _net3 _net4 Subst="Subst1" W="1 mm" L="14.43 mm" Model="Hammerstad" DispModel="Kirschning" Temp="26.85"
+MLIN:MS4 _net4 _net5 Subst="Subst1" W="1 mm" L="14.43 mm" Model="Hammerstad" DispModel="Kirschning" Temp="26.85"
+.DC:DC1 Temp="26.85" reltol="0.001" abstol="1 pA" vntol="1 uV" saveOPs="no" MaxIter="150" saveAll="no" convHelper="none" Solver="CroutLU"
+Vdc:V1 bias gnd U="u_bias"
+Vac:V2 in gnd U="1 V" f="2.45 GHz" Phase="0" Theta="0"
+SUBST:Subst1 er="4.5" h="0.4 mm" t="35 um" tand="0.010" rho="0.022e-6" D="2.388e-3"
+.AC:AC1 Type="lin" Start="2.40 GHz" Stop="2.50 GHz" Points="3" Noise="no"
+Eqn:Eqn1 phase="angle(out.v)" Export="yes"
+.SW:SW1 Sim="DC1" Type="lin" Param="u_bias" Start="0 V" Stop="3.3 V" Points="11"
+Sub:SUB4 gnd _net5 Type="bby66_02v_sc79"
+Sub:SUB2 gnd _net4 Type="bby66_02v_sc79"
+Coupler:X1 _net0 _net2 _net3 _net1 k="0.7071" phi="90" Z="50 Ohm"
+MLIN:MS1 _net2 _net6 Subst="Subst1" W="1 mm" L="14.43 mm" Model="Hammerstad" DispModel="Kirschning" Temp="26.85"
+MLIN:MS3 _net6 _net7 Subst="Subst1" W="1 mm" L="14.43 mm" Model="Hammerstad" DispModel="Kirschning" Temp="26.85"
+Sub:SUB3 gnd _net7 Type="bby66_02v_sc79"
+Sub:SUB1 gnd _net6 Type="bby66_02v_sc79"

@@ -1,0 +1,32 @@
+***************************************************************
+* INFINEON TECHNOLOGIES
+* RF-PACKAGE EQUIVALENT CIRCUIT 
+* VALID UP TO 6 GHZ
+* >>> SC79 <<< (RF-DIODE-PACKAGE)
+* FILENAME: SC79.TXT
+* (C) 2001 INFINEON TECHNOLOGIES
+* Version 1.0             Februar 2001          A.Boehme
+***************************************************************
+*
+*                           CAC
+*             (10)          | |          (20)
+*              +------------| |------------+
+*              |            | |            |
+*         LAO  |                           |  LCO
+*     A---LLL--+                           +--LLL---C
+*   (100)      |                           |      (200)
+*              |  LAI                      |
+*              +--LLL---A' CHIP  C'--------+
+*                      (1)      (2)
+*
+BLK
+     IND    1   10    L=0.45nH       ; LAI
+     CAP   10   20    C=90fF         ; CAC
+     IND   10  100    L=0.15nH       ; LAO
+     IND   20  200    L=0.1nH        ; LCO
+     
+END
+***************************************************************
+* Add Spice model or discrete equivalent circuit for chip
+* between terminals (1) and (2)
+***************************************************************
