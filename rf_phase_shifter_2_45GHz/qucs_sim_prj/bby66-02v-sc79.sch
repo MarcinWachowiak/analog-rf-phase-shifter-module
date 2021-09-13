@@ -1,7 +1,7 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=0,-180,1268,997,1.21,0,110>
-  <Grid=10,10,1>
+  <View=0,-180,1268,997,1.21,0,0>
+  <Grid=5,5,1>
   <DataSet=bby66-02v-sc79.dat>
   <DataDisplay=bby66-02v-sc79.dpl>
   <OpenDisplay=1>
@@ -14,8 +14,16 @@
   <FrameText3=Revision:>
 </Properties>
 <Symbol>
-  <.PortSym 40 20 2 0>
-  <.PortSym 40 60 1 0>
+  <Line 0 -10 0 20 #000080 4 1>
+  <Line 5 -10 0 20 #000080 4 1>
+  <Line -15 10 15 -10 #000080 2 1>
+  <.ID -20 14 SUB>
+  <Line -15 -10 15 10 #000080 2 1>
+  <Line -15 -10 0 20 #000080 2 1>
+  <Line 5 0 15 0 #000080 2 1>
+  <Line -30 0 15 0 #000080 2 1>
+  <.PortSym -30 0 1 0>
+  <.PortSym 20 0 2 180>
 </Symbol>
 <Components>
   <Port P2 1 630 80 4 -50 0 2 "2" 1 "analog" 0>
