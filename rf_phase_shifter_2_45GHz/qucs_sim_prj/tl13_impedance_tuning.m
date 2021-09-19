@@ -31,6 +31,7 @@ leg = legend(leg_str)
 set(leg, "title", "TL 1,3 impedance [Ohm]")
 xlim([0,3.3])
 grid
+print "plots/att_tl13.png"
 
 %phase shift
 figure;
@@ -46,6 +47,7 @@ leg = legend(leg_str)
 set(leg, "title", "TL 1,3 impedance [Ohm]")
 xlim([0,3.3])
 grid
+print "plots/pha_tl13.png"
 
 %ripple
 figure;
@@ -58,8 +60,6 @@ ripp = []
 for ii = 1:length(z_tl13)
  ripp = [ripp ; max(re_att(ii,:))-min(re_att(ii,:))]
 end
-
 plot(z_tl13,ripp)
-
 grid
-
+print "plots/ripp_tl13.png"

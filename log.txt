@@ -1,7 +1,7 @@
 Output:
 -------
 
-Starting new simulation on niedz. 19. wrz 2021 at 14:39:53:831
+Starting new simulation on niedz. 19. wrz 2021 at 15:13:28:517
 
 creating netlist... done.
 Starting /usr/local/bin/qucsator
@@ -1453,200 +1453,8 @@ checker notice, variable `in.v' in equation `phase_shift' not yet defined
 checker notice, variable `out.v' in equation `phase_shift' not yet defined
 checker notice, variable `in.v' in equation `attenuation' not yet defined
 checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
-checker notice, variable `in.v' in equation `phase_shift' not yet defined
-checker notice, variable `out.v' in equation `phase_shift' not yet defined
-checker notice, variable `in.v' in equation `attenuation' not yet defined
-checker notice, variable `out.v' in equation `attenuation' not yet defined
 
-Simulation ended on niedz. 19. wrz 2021 at 14:39:54:225
+Simulation ended on niedz. 19. wrz 2021 at 15:13:28:944
 Ready.
 
 
@@ -1733,6 +1541,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2082,7 +1891,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2135,7 +1943,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2168,7 +1975,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2189,6 +1995,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2206,7 +2013,6 @@ WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
@@ -2226,6 +2032,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2242,7 +2049,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2287,11 +2093,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2316,6 +2122,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2324,7 +2131,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2365,7 +2171,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2374,6 +2179,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2439,7 +2245,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2458,6 +2263,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -2468,7 +2274,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2485,6 +2290,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2501,7 +2307,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2518,6 +2323,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2534,7 +2340,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2549,6 +2354,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -2567,7 +2373,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2633,7 +2438,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2650,6 +2454,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2666,7 +2471,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2679,6 +2483,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2699,7 +2504,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2740,13 +2544,13 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -2771,9 +2575,9 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2810,7 +2614,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2819,6 +2622,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2837,7 +2641,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -2848,6 +2651,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2872,7 +2676,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2903,7 +2706,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -2926,6 +2728,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -2944,7 +2747,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -2963,6 +2765,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -2977,7 +2780,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -3016,6 +2818,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3026,7 +2829,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -3053,13 +2855,13 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -3114,11 +2916,11 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3143,7 +2945,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3168,6 +2969,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3180,7 +2982,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3207,9 +3008,9 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3244,9 +3045,9 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3281,13 +3082,13 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3320,13 +3121,13 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3357,13 +3158,13 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3394,7 +3195,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3413,6 +3213,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -3425,7 +3226,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3444,6 +3244,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -3480,7 +3281,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3503,6 +3303,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3511,7 +3312,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3538,6 +3338,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3556,7 +3357,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -3589,7 +3389,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3640,6 +3439,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3650,7 +3450,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3675,9 +3474,9 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3716,7 +3515,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3751,9 +3549,9 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3788,13 +3586,13 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3831,7 +3629,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3844,6 +3641,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -3860,7 +3658,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3877,6 +3674,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -3898,7 +3696,6 @@ WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
@@ -3928,13 +3725,13 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -3959,11 +3756,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4035,7 +3832,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4046,6 +3842,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4062,7 +3859,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4097,7 +3893,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4114,6 +3909,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4132,7 +3928,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -4151,6 +3946,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4171,7 +3967,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4206,11 +4001,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4247,13 +4042,13 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4282,7 +4077,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4350,11 +4144,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4399,9 +4193,9 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4471,7 +4265,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -4482,6 +4275,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -4532,7 +4326,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -4545,6 +4338,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4569,7 +4363,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4582,6 +4375,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4616,7 +4410,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4647,6 +4440,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4655,7 +4449,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -4678,6 +4471,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4690,7 +4484,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4729,13 +4522,13 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4760,7 +4553,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4769,6 +4561,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -4811,6 +4604,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4821,7 +4615,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4846,13 +4639,13 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4893,6 +4686,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4901,7 +4695,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -4930,6 +4723,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -4942,7 +4736,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -4965,6 +4758,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -4975,7 +4769,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5016,7 +4809,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5027,6 +4819,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5047,7 +4840,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5056,6 +4848,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -5088,7 +4881,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5121,11 +4913,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5158,6 +4950,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -5184,7 +4977,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5215,13 +5007,13 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5252,9 +5044,9 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5289,7 +5081,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5314,6 +5105,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5344,11 +5136,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5385,11 +5177,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5420,6 +5212,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5430,7 +5223,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5455,6 +5247,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -5467,7 +5260,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5488,6 +5280,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5498,7 +5291,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5539,11 +5331,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5574,13 +5366,13 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5605,7 +5397,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5656,13 +5447,13 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5683,6 +5474,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5693,7 +5485,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5724,6 +5515,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5744,7 +5536,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5755,6 +5546,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5771,7 +5563,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5853,11 +5644,11 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5898,7 +5689,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5909,6 +5699,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -5935,7 +5726,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5944,6 +5734,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -5976,11 +5767,11 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6052,7 +5843,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6063,6 +5853,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6087,11 +5878,11 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -6114,7 +5905,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6151,11 +5941,11 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6180,6 +5970,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6190,7 +5981,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6217,7 +6007,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6252,13 +6041,13 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6283,6 +6072,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6293,7 +6083,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6320,7 +6109,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6351,6 +6139,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6361,7 +6150,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6386,6 +6174,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6396,7 +6185,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6423,11 +6211,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6458,9 +6246,9 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6491,11 +6279,11 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6565,7 +6353,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
@@ -6598,11 +6385,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6629,7 +6416,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6640,6 +6426,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6670,7 +6457,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6701,13 +6487,13 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6732,7 +6518,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6743,6 +6528,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6773,7 +6559,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6804,11 +6589,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6835,11 +6620,11 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6880,6 +6665,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6890,7 +6676,6 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
-
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6911,6 +6696,7 @@ WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB4.D1'
+
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
@@ -6927,7 +6713,6 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
-
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
@@ -6938,6 +6723,7 @@ WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
 WARNING: DC1: inserted virtual resistance at node `_net0' connected to [X8,C1]
 WARNING: DC1: inserted virtual resistance at node `_net1' connected to [X8,C2]
+
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB1.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB3.D1'
 WARNING: Unphysical model parameter M = 3.1 in Diode `bby66_02v_sc79.SUB2.D1'
