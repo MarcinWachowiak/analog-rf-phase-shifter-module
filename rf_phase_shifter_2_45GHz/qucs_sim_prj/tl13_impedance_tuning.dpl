@@ -20,8 +20,8 @@
 <Wires>
 </Wires>
 <Diagrams>
-  <Tab 110 245 396 525 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1665 315 0 225 "" "" "" "">
-	<"attenuation" #0000ff 0 3 1 0 0>
+  <Tab 110 245 396 525 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 6327 315 0 225 "" "" "" "">
+	<"tl13_impedance_tuning:attenuation" #0000ff 0 3 0 0 0>
   </Tab>
 </Diagrams>
 <Paintings>

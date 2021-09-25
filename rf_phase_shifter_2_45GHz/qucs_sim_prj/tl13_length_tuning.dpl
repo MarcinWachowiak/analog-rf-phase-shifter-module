@@ -2,10 +2,10 @@
 <Properties>
   <View=0,0,800,800,1,0,0>
   <Grid=10,10,0>
-  <DataSet=tl24_lenght_tuning.dat>
-  <DataDisplay=tl24_impedance_tuning.sch>
+  <DataSet=tl13_length_tuning.dat>
+  <DataDisplay=tl13_length_tuning.sch>
   <OpenDisplay=1>
-  <Script=tl24_lenght_tuning.m>
+  <Script=tl13_length_tuning.m>
   <RunScript=0>
   <showFrame=0>
   <FrameText0=Title>
@@ -20,7 +20,7 @@
 <Wires>
 </Wires>
 <Diagrams>
-  <Tab 160 615 396 525 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1665 315 0 225 "" "" "" "">
+  <Tab 44 647 404 603 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1665 315 0 225 "" "" "" "">
 	<"attenuation" #0000ff 0 3 1 0 0>
   </Tab>
 </Diagrams>

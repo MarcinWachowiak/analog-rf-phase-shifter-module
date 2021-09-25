@@ -1,5 +1,5 @@
 graphics_toolkit("gnuplot")
-[data] = loadQucsDataSet("tl24_lenght_tuning.dat")
+[data] = loadQucsDataSet("tl24_impedance_tuning.dat")
 showQucsDataSet(data)
 
 [v_bias] = getQucsVariable(data,"v_bias");
@@ -31,7 +31,7 @@ leg = legend(leg_str)
 set(leg, "title", "TL 2, 4 impedance [Ohm]")
 xlim([0,3.3])
 grid
-print "plots/att_tl24.png"
+print "plots/att_tl24_imp_sweep.png"
 
 %phase shift
 figure;
@@ -47,21 +47,26 @@ leg = legend(leg_str)
 set(leg, "title", "TL 2, 4 impedance [Ohm]")
 xlim([0,3.3])
 grid
-print "plots/pha_tl24.png"
+print "plots/pha_tl24_imp_sweep.png"
 
-%ripple
+%ripple and max phase shift
 figure;
-title ("Attenuation ripple: TL 2,4 impedance sweep");
-xlabel ("TL 2, 4 impedance [Ohm]");
-ylabel ("Amplitude ripple [dB]");
+title ("Attenuation ripple and phase shift range: TL 2,4 impedance sweep");
 hold on
 
 ripp = []
+pha_max_shift = []
 for ii = 1:length(z_tl24)
  ripp = [ripp ; max(re_att(ii,:))-min(re_att(ii,:))]
+ pha_max_shift  = [pha_max_shift ; max(re_pha(ii,:))-min(re_pha(ii,:))]
 end
-plot(z_tl24,ripp)
+ax = plotyy(z_tl13, ripp, z_tl13, pha_max_shift)
+xlabel ("TL 1,3 impedance [Ohm]");
+ylabel (ax(1), "Amplitude ripple [dB]");
+ylabel (ax(2), "Maximum phase shift [°]");
+
 grid
-print "plots/ripp_tl24.png"
+print "plots/ripp_and_max_phase_shift_tl24_imp_sweep.png"
+
 
 
