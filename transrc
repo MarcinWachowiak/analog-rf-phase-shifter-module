@@ -7,11 +7,11 @@ QucsTranscalc 0.0.20 GUI Settings File
   T 35 um
   Cond 4.1e+07 NA
   Tand 0.03 NA
-  Rough 0 mil
-  Freq 2.45 GHz
-  W 1.09952 mm
-  L 16.8072 mm
-  Z0 50 Ohm
+  Rough 2.2e-08 m
+  Freq 5.8 GHz
+  W 0.790283 mm
+  L 7.18748 mm
+  Z0 60 Ohm
   Ang_l 90 Deg
 </Microstrip>
 <Coplanar>
@@ -24,8 +24,8 @@ QucsTranscalc 0.0.20 GUI Settings File
   W 10 mil
   S 5 mil
   L 100 mil
-  Z0 50 Ohm
-  Ang_l 90 Deg
+  Z0 86.742 Ohm
+  Ang_l 4.11986 Deg
 </Coplanar>
 <GroundedCoplanar>
   Er 2.94 NA
@@ -37,8 +37,8 @@ QucsTranscalc 0.0.20 GUI Settings File
   W 10 mil
   S 5 mil
   L 100 mil
-  Z0 50 Ohm
-  Ang_l 90 Deg
+  Z0 72.0863 Ohm
+  Ang_l 4.39316 Deg
 </GroundedCoplanar>
 <Rectangular>
   Er 1 NA

@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-117,1579,1024,1.1,701,300>
+  <View=-733,-237,1579,883,1.1,701,0>
   <Grid=10,10,1>
   <DataSet=tl13_length_tuning.dat>
   <DataDisplay=tl13_length_tuning.dpl>
@@ -48,13 +48,13 @@
   <Eqn Eqn1 1 1130 -70 -31 19 0 0 "phase_shift=rad2deg(angle(out.v) - angle(in.v))" 1 "attenuation=dB(mag(out.v)/mag(in.v))" 1 "yes" 0>
   <.SP SP1 0 930 -80 0 78 0 0 "lin" 1 "2.0 GHz" 1 "3.0 GHz" 1 "1001" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
   <Eqn S_param_db_calc 0 960 140 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
-  <.SW SW2 1 580 -80 0 78 0 0 "AC1" 1 "lin" 1 "frac_of_lambda" 1 "0.1" 1 "1" 1 "19" 1>
   <GND * 5 990 590 0 0 0 0>
   <GND * 5 990 790 0 0 0 0>
   <Sub SUB1 1 750 540 -15 -129 0 1 "BBY66-02V-SC79.sch" 1>
   <Sub SUB3 1 990 530 22 -18 0 1 "BBY66-02V-SC79.sch" 1>
   <Sub SUB4 1 990 740 24 -17 0 1 "BBY66-02V-SC79.sch" 1>
   <Sub SUB2 1 750 740 -19 78 0 1 "BBY66-02V-SC79.sch" 1>
+  <.SW SW2 1 580 -80 0 78 0 0 "AC1" 1 "lin" 1 "frac_of_lambda" 1 "0.2" 1 "0.4" 1 "5" 1>
 </Components>
 <Wires>
   <750 480 750 520 "" 0 0 0 "">

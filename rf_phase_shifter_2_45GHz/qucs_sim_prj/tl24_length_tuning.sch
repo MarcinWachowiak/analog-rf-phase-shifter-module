@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-117,1579,902,1.1,701,174>
+  <View=-733,-138,1579,883,1.1,701,36>
   <Grid=10,10,1>
   <DataSet=tl24_length_tuning.dat>
   <DataDisplay=tl24_length_tuning.dpl>
@@ -50,11 +50,11 @@
   <GND * 5 990 790 0 0 0 0>
   <TLIN Line2 1 880 480 -26 20 0 0 "z_tl24" 1 "tl_length" 1 "0 dB" 0 "26.85" 0>
   <TLIN Line4 1 880 690 -26 20 0 0 "z_tl24" 1 "tl_length" 1 "0 dB" 0 "26.85" 0>
-  <.SW SW2 1 580 -80 0 78 0 0 "AC1" 1 "lin" 1 "frac_of_lambda" 1 "0.1" 1 "1" 1 "19" 1>
   <Sub SUB1 1 800 540 -15 -129 0 1 "BBY66-02V-SC79.sch" 1>
   <Sub SUB3 1 990 530 22 -18 0 1 "BBY66-02V-SC79.sch" 1>
   <Sub SUB4 1 990 740 24 -17 0 1 "BBY66-02V-SC79.sch" 1>
   <Sub SUB2 1 800 740 -19 78 0 1 "BBY66-02V-SC79.sch" 1>
+  <.SW SW2 1 580 -80 0 78 0 0 "AC1" 1 "lin" 1 "frac_of_lambda" 1 "0.2" 1 "0.3" 1 "5" 1>
 </Components>
 <Wires>
   <60 570 60 600 "" 0 0 0 "">
