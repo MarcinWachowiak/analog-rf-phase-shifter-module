@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 0)
-    (tracks 5)
+    (tracks 0)
     (zones 0)
     (modules 12)
     (nets 9)
@@ -41,8 +41,9 @@
   )
 
   (setup
-    (last_trace_width 0.25)
-    (user_trace_width 1.092)
+    (last_trace_width 0.5)
+    (user_trace_width 0.25)
+    (user_trace_width 0.5)
     (trace_clearance 0.2)
     (zone_clearance 0.508)
     (zone_45_only no)
@@ -260,7 +261,7 @@
   )
 
   (module analog_rf_phase_shifter_module:C2327J5003AHF (layer F.Cu) (tedit 60903879) (tstamp 6090377A)
-    (at 76.527601 52.362401)
+    (at 109.474 54.61)
     (descr C2327J5003AHF-2)
     (tags Filter)
     (path /6090630C)
@@ -308,7 +309,7 @@
   )
 
   (module Inductor_SMD:L_0603_1608Metric (layer F.Cu) (tedit 5F68FEF0) (tstamp 6066846C)
-    (at 90.6272 39.624 180)
+    (at 116.2812 50.546 180)
     (descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags inductor)
     (path /6037477C)
@@ -316,7 +317,7 @@
     (fp_text reference L2 (at 0 -1.43) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1u (at 0 1.43) (layer F.Fab)
+    (fp_text value 220n (at 0 1.43) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -344,7 +345,7 @@
   )
 
   (module Inductor_SMD:L_0603_1608Metric (layer F.Cu) (tedit 5F68FEF0) (tstamp 6066845B)
-    (at 64.2112 40.132 180)
+    (at 101.2952 54.356 180)
     (descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags inductor)
     (path /60374381)
@@ -352,7 +353,7 @@
     (fp_text reference L1 (at 0 -1.43) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1u (at 0 1.43) (layer F.Fab)
+    (fp_text value 220n (at 0 1.43) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -0.8 0.4) (end -0.8 -0.4) (layer F.Fab) (width 0.1))
@@ -380,7 +381,7 @@
   )
 
   (module Diode_SMD:D_SOD-523 (layer F.Cu) (tedit 586419F0) (tstamp 606683A7)
-    (at 90.8812 35.052)
+    (at 112.968 49.784)
     (descr "http://www.diodes.com/datasheets/ap02001.pdf p.144")
     (tags "Diode SOD523")
     (path /60376509)
@@ -423,7 +424,7 @@
   )
 
   (module Diode_SMD:D_SOD-523 (layer F.Cu) (tedit 586419F0) (tstamp 6066838F)
-    (at 64.4652 44.704 180)
+    (at 101.5492 58.928 180)
     (descr "http://www.diodes.com/datasheets/ap02001.pdf p.144")
     (tags "Diode SOD523")
     (path /60375EF1)
@@ -466,7 +467,7 @@
   )
 
   (module Diode_SMD:D_SOD-523 (layer F.Cu) (tedit 586419F0) (tstamp 60668377)
-    (at 90.8812 44.704)
+    (at 116.5352 55.626)
     (descr "http://www.diodes.com/datasheets/ap02001.pdf p.144")
     (tags "Diode SOD523")
     (path /60375884)
@@ -509,7 +510,7 @@
   )
 
   (module Diode_SMD:D_SOD-523 (layer F.Cu) (tedit 586419F0) (tstamp 6066835F)
-    (at 64.4652 35.56 180)
+    (at 101.5492 49.784 180)
     (descr "http://www.diodes.com/datasheets/ap02001.pdf p.144")
     (tags "Diode SOD523")
     (path /60375266)
@@ -552,7 +553,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60668347)
-    (at 87.8332 49.53 180)
+    (at 113.4872 60.452 180)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /603774E1)
@@ -588,7 +589,7 @@
   )
 
   (module Capacitor_SMD:C_0603_1608Metric (layer F.Cu) (tedit 5F68FEEE) (tstamp 60668336)
-    (at 67.5002 49.53 180)
+    (at 105.6002 51.816 180)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags capacitor)
     (path /60376E80)
@@ -622,11 +623,5 @@
       (rotate (xyz 0 0 0))
     )
   )
-
-  (segment (start 80.7212 50.498) (end 80.7212 36.068) (width 1.092) (layer F.Cu) (net 0) (tstamp 6079DAF8))
-  (segment (start 78.0692 51.321) (end 78.1682 51.321) (width 0.25) (layer F.Cu) (net 7))
-  (segment (start 78.9432 50.498) (end 78.9432 36.068) (width 1.092) (layer F.Cu) (net 7))
-  (segment (start 78.1682 51.321) (end 78.8162 50.673) (width 0.25) (layer F.Cu) (net 7))
-  (segment (start 78.8162 50.673) (end 78.9432 50.546) (width 0.25) (layer F.Cu) (net 7))
 
 )
