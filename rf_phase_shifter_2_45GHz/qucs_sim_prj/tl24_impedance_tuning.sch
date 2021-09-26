@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-199,1579,879,1.1,741,0>
+  <View=-733,-19,1579,883,1.1,701,0>
   <Grid=10,10,1>
   <DataSet=tl24_impedance_tuning.dat>
   <DataDisplay=tl24_impedance_tuning.dpl>
@@ -25,14 +25,10 @@
   <C C2 1 190 690 -26 17 0 0 "100 pF" 1 "" 0 "neutral" 0>
   <GND * 5 120 830 0 0 0 0>
   <GND * 5 60 600 0 0 0 0>
-  <Sub SUB1 1 750 540 -18 -135 0 1 "bby66-02v-sc79.sch" 1>
   <GND * 5 750 590 0 0 0 0>
-  <Sub SUB3 1 940 530 25 -18 0 1 "bby66-02v-sc79.sch" 1>
   <GND * 5 940 590 0 0 0 0>
   <GND * 5 750 790 0 0 0 0>
   <GND * 5 940 790 0 0 0 0>
-  <Sub SUB2 1 750 740 -22 74 0 1 "bby66-02v-sc79.sch" 1>
-  <Sub SUB4 1 940 740 27 -17 0 1 "bby66-02v-sc79.sch" 1>
   <Pac P1 1 60 540 18 -26 0 1 "1" 1 "50 Ohm" 1 "0 dBm" 0 "2.45 GHz" 0 "26.85" 0>
   <Pac P2 1 120 770 18 -26 0 1 "2" 1 "50 Ohm" 1 "-100 dBm" 0 "2.45 GHz" 0 "26.85" 0>
   <GND * 5 480 630 0 0 0 0>
@@ -55,6 +51,10 @@
   <.SW SW2 1 640 10 0 78 0 0 "AC1" 1 "lin" 1 "z_tl24" 1 "10 Ohm" 1 "100 Ohm" 1 "19" 1>
   <.DC DC1 1 450 10 0 46 0 0 "26.85" 0 "0.001" 0 "1 pA" 0 "1 uV" 0 "no" 0 "150" 0 "no" 0 "none" 0 "CroutLU" 0>
   <.AC AC1 1 450 100 0 46 0 0 "lin" 1 "2.40 GHz" 1 "2.50 GHz" 1 "3" 1 "no" 0>
+  <Sub SUB1 1 750 540 -15 -129 0 1 "BBY66-02V-SC79.sch" 1>
+  <Sub SUB3 1 940 530 22 -18 0 1 "BBY66-02V-SC79.sch" 1>
+  <Sub SUB2 1 750 740 -19 78 0 1 "BBY66-02V-SC79.sch" 1>
+  <Sub SUB4 1 940 740 24 -17 0 1 "BBY66-02V-SC79.sch" 1>
 </Components>
 <Wires>
   <750 480 750 520 "" 0 0 0 "">

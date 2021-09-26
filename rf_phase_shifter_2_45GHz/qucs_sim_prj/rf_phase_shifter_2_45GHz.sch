@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-281,1653,1066,1,581,0>
+  <View=-733,-109,1653,1066,1,544,0>
   <Grid=10,10,1>
   <DataSet=rf_phase_shifter_2_45GHz.dat>
   <DataDisplay=rf_phase_shifter_2_45GHz.dpl>
@@ -25,14 +25,10 @@
   <C C2 1 160 600 -26 17 0 0 "100 pF" 1 "" 0 "neutral" 0>
   <GND * 5 90 740 0 0 0 0>
   <GND * 5 30 510 0 0 0 0>
-  <Sub SUB1 1 720 450 -18 -135 0 1 "bby66-02v-sc79.sch" 1>
   <GND * 5 720 500 0 0 0 0>
-  <Sub SUB3 1 910 440 25 -18 0 1 "bby66-02v-sc79.sch" 1>
   <GND * 5 910 500 0 0 0 0>
   <GND * 5 720 700 0 0 0 0>
   <GND * 5 910 700 0 0 0 0>
-  <Sub SUB2 1 720 650 -22 74 0 1 "bby66-02v-sc79.sch" 1>
-  <Sub SUB4 1 910 650 27 -17 0 1 "bby66-02v-sc79.sch" 1>
   <Pac P1 1 30 450 18 -26 0 1 "1" 1 "50 Ohm" 1 "0 dBm" 0 "2.45 GHz" 0 "26.85" 0>
   <Pac P2 1 90 680 18 -26 0 1 "2" 1 "50 Ohm" 1 "-100 dBm" 0 "2.45 GHz" 0 "26.85" 0>
   <GND * 5 450 540 0 0 0 0>
@@ -53,6 +49,10 @@
   <MLIN MS4 1 800 600 -26 15 0 0 "Subst1" 1 "tl24_width_m" 1 "tl24_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>
   <L L2 1 422 308 10 -26 0 1 "220 nH" 1 "" 0>
   <L L1 1 520 310 10 -26 0 1 "220 nH" 1 "" 0>
+  <Sub SUB4 1 910 650 24 -17 0 1 "BBY66-02V-SC79.sch" 1>
+  <Sub SUB2 1 720 650 -19 78 0 1 "BBY66-02V-SC79.sch" 1>
+  <Sub SUB3 1 910 440 22 -18 0 1 "BBY66-02V-SC79.sch" 1>
+  <Sub SUB1 1 720 450 -15 -129 0 1 "BBY66-02V-SC79.sch" 1>
 </Components>
 <Wires>
   <720 390 720 430 "" 0 0 0 "">

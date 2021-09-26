@@ -1,0 +1,36 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=0,-71,1760,938,1.1,0,0>
+  <Grid=10,10,0>
+  <DataSet=diode_reactance_meas.dat>
+  <DataDisplay=diode_reactance_meas.sch>
+  <OpenDisplay=1>
+  <Script=diode_reactance_meas.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Tab 160 851 157 61 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1000 315 0 225 "" "" "" "">
+	<"Z_tl24" #0000ff 0 3 1 0 0>
+  </Tab>
+  <Rect 160 735 1217 745 3 #c0c0c0 1 00 1 -1 0.1 1 1 -1 0.2 1 1 -1 0.2 1 315 0 225 "" "" "" "">
+	<"reactance_5_725_GHz" #0000ff 0 3 0 0 0>
+	  <Mkr 1 446 -371 3 0 0>
+	<"reactance_5_8_GHz" #ff0000 0 3 0 0 0>
+	  <Mkr 3.3 1272 -621 3 0 0>
+	  <Mkr 0.001 105 -234 3 0 0>
+	<"reactance_5_875_GHz" #ff00ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

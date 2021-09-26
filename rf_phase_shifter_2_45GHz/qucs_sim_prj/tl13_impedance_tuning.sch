@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-199,1579,879,1.1,789,0>
+  <View=-733,-69,1579,950,1.1,701,174>
   <Grid=10,10,1>
   <DataSet=tl13_impedance_tuning.dat>
   <DataDisplay=tl13_impedance_tuning.dpl>
@@ -25,14 +25,10 @@
   <C C2 1 190 690 -26 17 0 0 "100 pF" 1 "" 0 "neutral" 0>
   <GND * 5 120 830 0 0 0 0>
   <GND * 5 60 600 0 0 0 0>
-  <Sub SUB1 1 750 540 -18 -135 0 1 "bby66-02v-sc79.sch" 1>
   <GND * 5 750 590 0 0 0 0>
-  <Sub SUB3 1 940 530 25 -18 0 1 "bby66-02v-sc79.sch" 1>
   <GND * 5 940 590 0 0 0 0>
   <GND * 5 750 790 0 0 0 0>
   <GND * 5 940 790 0 0 0 0>
-  <Sub SUB2 1 750 740 -22 74 0 1 "bby66-02v-sc79.sch" 1>
-  <Sub SUB4 1 940 740 27 -17 0 1 "bby66-02v-sc79.sch" 1>
   <Pac P1 1 60 540 18 -26 0 1 "1" 1 "50 Ohm" 1 "0 dBm" 0 "2.45 GHz" 0 "26.85" 0>
   <Pac P2 1 120 770 18 -26 0 1 "2" 1 "50 Ohm" 1 "-100 dBm" 0 "2.45 GHz" 0 "26.85" 0>
   <GND * 5 480 630 0 0 0 0>
@@ -55,6 +51,10 @@
   <.SP SP1 0 880 -40 0 78 0 0 "lin" 1 "2.0 GHz" 1 "3.0 GHz" 1 "1001" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
   <Eqn S_param_db_calc 0 910 180 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
   <.SW SW2 1 580 -40 0 78 0 0 "AC1" 1 "lin" 1 "z_tl13" 1 "10 Ohm" 1 "100 Ohm" 1 "19" 1>
+  <Sub SUB1 1 750 540 -15 -129 0 1 "BBY66-02V-SC79.sch" 1>
+  <Sub SUB3 1 940 530 22 -18 0 1 "BBY66-02V-SC79.sch" 1>
+  <Sub SUB4 1 940 740 24 -17 0 1 "BBY66-02V-SC79.sch" 1>
+  <Sub SUB2 1 750 740 -19 78 0 1 "BBY66-02V-SC79.sch" 1>
 </Components>
 <Wires>
   <750 480 750 520 "" 0 0 0 "">
