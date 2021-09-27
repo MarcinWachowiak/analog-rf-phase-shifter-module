@@ -350,8 +350,8 @@ $Comp
 L Device:D_Capacitance D3
 U 1 1 60375EF1
 P 5750 1900
-F 0 "D3" H 5600 1800 50  0000 C CNN
-F 1 "BBY66_02V" H 5750 1700 50  0000 C CNN
+F 0 "D3" H 5650 1800 50  0000 C CNN
+F 1 "BBY66_02V" H 5800 1700 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-523" H 5750 1900 50  0001 C CNN
 F 3 "~" H 5750 1900 50  0001 C CNN
 	1    5750 1900
@@ -380,14 +380,14 @@ F 3 "~" H 5200 1900 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	5200 2100 5750 2100
+	5200 2100 5350 2100
 Wire Wire Line
-	5200 2300 5750 2300
+	5200 2300 5350 2300
 Wire Wire Line
-	4550 2300 5200 2300
+	4550 2300 4750 2300
 Connection ~ 5200 2100
 Wire Wire Line
-	4250 2100 5200 2100
+	4250 2100 4750 2100
 Text Notes 4900 2000 1    50   ~ 0
 λ/4: L=7.402, W=0.4241 [mm]
 Wire Notes Line
@@ -422,4 +422,56 @@ Wire Notes Line
 	4750 2250 4750 2350
 Wire Notes Line
 	4750 2350 5050 2350
+$Comp
+L analog_rf_phase_shifter_module:TL_13_5_8GHz TL1
+U 1 1 6151CF6D
+P 4900 2050
+F 0 "TL1" H 4650 2050 50  0000 C CNN
+F 1 "TL_13_5_8GHz" V 5000 2350 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:TL_13_5_8GHz" H 4650 2200 50  0001 C CNN
+F 3 "" H 4650 2200 50  0001 C CNN
+	1    4900 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 2100 5200 2100
+$Comp
+L analog_rf_phase_shifter_module:TL_13_5_8GHz TL2
+U 1 1 6151D9C5
+P 4900 2250
+F 0 "TL2" H 4650 2250 50  0000 C CNN
+F 1 "TL_13_5_8GHz" H 4850 2100 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:TL_13_5_8GHz" H 4650 2400 50  0001 C CNN
+F 3 "" H 4650 2400 50  0001 C CNN
+	1    4900 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 2300 5200 2300
+$Comp
+L analog_rf_phase_shifter_module:TL_24_5_8GHz TL3
+U 1 1 6151E660
+P 5500 2050
+F 0 "TL3" H 5275 1950 50  0000 C CNN
+F 1 "TL_24_5_8GHz" H 5950 1950 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:TL_24_5_8GHz" H 5250 2200 50  0001 C CNN
+F 3 "" H 5250 2200 50  0001 C CNN
+	1    5500 2050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 2100 5750 2100
+$Comp
+L analog_rf_phase_shifter_module:TL_24_5_8GHz TL4
+U 1 1 6151EE61
+P 5500 2250
+F 0 "TL4" H 5275 2250 50  0000 C CNN
+F 1 "TL_24_5_8GHz" V 5500 1850 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:TL_24_5_8GHz" H 5250 2400 50  0001 C CNN
+F 3 "" H 5250 2400 50  0001 C CNN
+	1    5500 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 2300 5750 2300
 $EndSCHEMATC

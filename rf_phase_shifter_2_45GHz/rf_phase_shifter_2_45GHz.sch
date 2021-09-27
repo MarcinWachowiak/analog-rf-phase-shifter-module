@@ -199,8 +199,8 @@ $Comp
 L Device:D_Capacitance D4
 U 1 1 60376509
 P 5600 2550
-F 0 "D4" H 5750 2650 50  0000 C CNN
-F 1 "BBY66_02V" H 5600 2750 50  0000 C CNN
+F 0 "D4" H 5800 2650 50  0000 C CNN
+F 1 "BBY66_02V" H 5650 2750 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-523" H 5600 2550 50  0001 C CNN
 F 3 "~" H 5600 2550 50  0001 C CNN
 	1    5600 2550
@@ -210,8 +210,8 @@ $Comp
 L Device:D_Capacitance D3
 U 1 1 60375EF1
 P 5600 1950
-F 0 "D3" H 5450 1850 50  0000 C CNN
-F 1 "BBY66_02V" H 5600 1750 50  0000 C CNN
+F 0 "D3" H 5500 1850 50  0000 C CNN
+F 1 "BBY66_02V" H 5650 1750 50  0000 C CNN
 F 2 "Diode_SMD:D_SOD-523" H 5600 1950 50  0001 C CNN
 F 3 "~" H 5600 1950 50  0001 C CNN
 	1    5600 1950
@@ -251,16 +251,16 @@ F 3 "~" H 4400 1750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5050 2150 5600 2150
+	5050 2150 5200 2150
 Wire Wire Line
-	5050 2350 5600 2350
+	5050 2350 5200 2350
 Wire Wire Line
-	4400 2350 5050 2350
+	4400 2350 4600 2350
 Connection ~ 5050 2150
 Connection ~ 4100 2150
 Wire Wire Line
-	4100 2150 5050 2150
-Text Notes 4800 2050 1    50   ~ 0
+	4100 2150 4600 2150
+Text Notes 4750 2050 1    50   ~ 0
 λ/4: L=16.12, W=2.4 [mm]
 Wire Notes Line
 	4600 2200 4900 2200
@@ -409,7 +409,7 @@ Wire Wire Line
 	2300 1950 2300 2150
 Wire Wire Line
 	2300 2350 2300 2550
-Text Notes 5400 2050 1    50   ~ 0
+Text Notes 5400 1950 1    50   ~ 0
 λ/4: L=17.092, W=0.79 [mm]
 $Comp
 L Device:L L1
@@ -422,4 +422,56 @@ F 3 "~" H 4100 1750 50  0001 C CNN
 	1    4100 1750
 	1    0    0    -1  
 $EndComp
+$Comp
+L analog_rf_phase_shifter_module:TL_13_2_45GHz TL1
+U 1 1 61540646
+P 4750 2100
+F 0 "TL1" H 4500 2100 50  0000 C CNN
+F 1 "TL_13_2_45GHz" V 4850 2450 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:TL_13_2_45GHz" H 4500 2250 50  0001 C CNN
+F 3 "" H 4500 2250 50  0001 C CNN
+	1    4750 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 2150 5050 2150
+$Comp
+L analog_rf_phase_shifter_module:TL_13_2_45GHz TL2
+U 1 1 61540E40
+P 4750 2300
+F 0 "TL2" H 4500 2300 50  0000 C CNN
+F 1 "TL_13_2_45GHz" H 4650 2100 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:TL_13_2_45GHz" H 4500 2450 50  0001 C CNN
+F 3 "" H 4500 2450 50  0001 C CNN
+	1    4750 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 2350 5050 2350
+$Comp
+L analog_rf_phase_shifter_module:TL_24_2_45GHz TL3
+U 1 1 61541F99
+P 5350 2100
+F 0 "TL3" H 5350 2150 50  0000 C CNN
+F 1 "TL_24_2_45GHz" H 5800 2000 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:TL_24_2_45GHz" H 5100 2250 50  0001 C CNN
+F 3 "" H 5100 2250 50  0001 C CNN
+	1    5350 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5500 2150 5600 2150
+$Comp
+L analog_rf_phase_shifter_module:TL_24_2_45GHz TL4
+U 1 1 615424E1
+P 5350 2300
+F 0 "TL4" H 5350 2150 50  0000 C CNN
+F 1 "TL_24_2_45GHz" H 5800 2300 50  0000 C CNN
+F 2 "analog_rf_phase_shifter_module:TL_24_2_45GHz" H 5100 2450 50  0001 C CNN
+F 3 "" H 5100 2450 50  0001 C CNN
+	1    5350 2300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5500 2350 5600 2350
 $EndSCHEMATC
