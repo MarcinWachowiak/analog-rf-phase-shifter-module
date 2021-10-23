@@ -474,4 +474,6 @@ F 3 "" H 5250 2400 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5650 2300 5750 2300
+Text Notes 1625 3100 0    50   ~ 0
+Substrate: FR4, thickness: 0.6 mm
 $EndSCHEMATC
