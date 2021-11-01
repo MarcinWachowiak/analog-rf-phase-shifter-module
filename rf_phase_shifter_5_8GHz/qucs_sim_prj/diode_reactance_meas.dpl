@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=0,-71,1760,938,1.1,0,0>
+  <View=0,-71,1760,938,0.909091,22,0>
   <Grid=10,10,0>
   <DataSet=diode_reactance_meas.dat>
   <DataDisplay=diode_reactance_meas.sch>

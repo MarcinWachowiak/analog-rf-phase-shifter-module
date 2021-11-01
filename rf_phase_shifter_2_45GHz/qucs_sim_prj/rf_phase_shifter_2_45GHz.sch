@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-169,1653,1058,1,559,0>
+  <View=-733,-169,1653,1120,1,559,60>
   <Grid=10,10,1>
   <DataSet=rf_phase_shifter_2_45GHz.dat>
   <DataDisplay=rf_phase_shifter_2_45GHz.dpl>
@@ -41,18 +41,18 @@
   <.SW SW1 1 570 10 0 78 0 0 "AC1" 1 "lin" 1 "v_bias" 1 "0 V" 1 "3.3 V" 1 "1111" 1>
   <Eqn S_param_db_calc 1 1270 20 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
   <Eqn Eqn1 1 920 20 -31 19 0 0 "phase_shift=rad2deg(angle(out.v) - angle(in.v))" 1 "attenuation=dB(mag(out.v)/mag(in.v))" 1 "att_2_40GHz=attenuation[:,0]" 1 "att_2_45GHz=attenuation[:,1]" 1 "att_2_50GHz=attenuation[:,2]" 1 "pha_shift_2_40GHz=phase_shift[:,0]" 1 "pha_shift_2_45GHz=phase_shift[:,1]" 1 "pha_shift_2_50GHz=phase_shift[:,2]" 1 "out_v_2_40GHz=out.v[:,0]" 1 "out_v_2_45GHz=out.v[:,1]" 1 "out_v_2_50GHz=out.v[:,2]" 1 "yes" 0>
-  <Eqn Transmission_line_params 1 170 20 -31 19 0 0 "tl13_width_m=0.002400" 1 "tl13_length_m=0.016120" 1 "tl24_width_m=0.000790" 1 "tl24_length_m=0.017092" 1 "yes" 0>
+  <Eqn Transmission_line_params 1 170 20 -31 19 0 0 "tl13_width_m=0.004085" 1 "tl13_length_m=0.01601" 1 "tl24_width_m=0.009283" 1 "tl24_length_m=0.015446" 1 "yes" 0>
   <MLIN MS1 1 620 480 -26 15 0 0 "Subst1" 1 "tl13_width_m" 1 "tl13_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>
   <MLIN MS3 1 620 690 -26 15 0 0 "Subst1" 1 "tl13_width_m" 1 "tl13_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>
   <MLIN MS2 1 810 480 -26 15 0 0 "Subst1" 1 "tl24_width_m" 1 "tl24_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>
   <MLIN MS4 1 810 690 -26 15 0 0 "Subst1" 1 "tl24_width_m" 1 "tl24_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>
   <L L2 1 432 398 10 -26 0 1 "220 nH" 1 "" 0>
   <L L1 1 530 400 10 -26 0 1 "220 nH" 1 "" 0>
-  <Sub SUB4 1 920 740 24 -17 0 1 "BBY66-02V-SC79.sch" 1>
-  <Sub SUB2 1 730 740 -19 78 0 1 "BBY66-02V-SC79.sch" 1>
-  <Sub SUB3 1 920 530 22 -18 0 1 "BBY66-02V-SC79.sch" 1>
-  <Sub SUB1 1 730 540 -15 -129 0 1 "BBY66-02V-SC79.sch" 1>
   <.SP SP1 1 720 10 0 77 0 0 "lin" 1 "2.4 GHz" 1 "2.5 GHz" 1 "1001" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
+  <Sub SUB1 1 730 540 -15 -129 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB3 1 920 530 19 -18 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB4 1 920 740 21 -17 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB2 1 730 740 -16 82 0 1 "SMV1763-079LF.sch" 1>
 </Components>
 <Wires>
   <730 480 730 520 "" 0 0 0 "">

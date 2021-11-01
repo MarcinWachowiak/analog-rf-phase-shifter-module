@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-129,1579,883,1.1,701,0>
+  <View=-733,-249,1579,985,1.1,819,120>
   <Grid=10,10,1>
   <DataSet=tl13_impedance_tuning.dat>
   <DataDisplay=tl13_impedance_tuning.dpl>
@@ -48,13 +48,13 @@
   <Eqn Eqn1 1 1080 -30 -31 19 0 0 "phase_shift=rad2deg(angle(out.v) - angle(in.v))" 1 "attenuation=dB(mag(out.v)/mag(in.v))" 1 "yes" 0>
   <.SP SP1 0 880 -40 0 78 0 0 "lin" 1 "2.0 GHz" 1 "3.0 GHz" 1 "1001" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
   <Eqn S_param_db_calc 0 910 180 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
-  <Sub SUB1 1 750 540 -15 -129 0 1 "BBY66-02V-SC79.sch" 1>
-  <Sub SUB3 1 940 530 22 -18 0 1 "BBY66-02V-SC79.sch" 1>
-  <Sub SUB4 1 940 740 24 -17 0 1 "BBY66-02V-SC79.sch" 1>
-  <Sub SUB2 1 750 740 -19 78 0 1 "BBY66-02V-SC79.sch" 1>
-  <Eqn Transmission_line_params 1 190 -30 -31 19 0 0 "z_tl24=60" 1 "yes" 0>
+  <Eqn Transmission_line_params 1 190 -30 -31 19 0 0 "z_tl24=10" 1 "yes" 0>
   <Eqn TL_length 1 190 120 -31 19 0 0 "center_freq=2.45e+9" 1 "c0=299792458" 1 "frac_of_lambda=0.25" 1 "wavelength=c0/center_freq" 1 "tl_length=frac_of_lambda*wavelength" 1 "yes" 0>
-  <.SW SW2 1 580 -40 0 78 0 0 "AC1" 1 "lin" 1 "z_tl13" 1 "20 Ohm" 1 "40 Ohm" 1 "6" 1>
+  <Sub SUB1 1 750 540 -15 -123 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB3 1 940 530 19 -18 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB2 1 750 740 -16 82 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB4 1 940 740 21 -17 0 1 "SMV1763-079LF.sch" 1>
+  <.SW SW2 1 580 -40 0 78 0 0 "AC1" 1 "lin" 1 "z_tl13" 1 "5 Ohm" 1 "35 Ohm" 1 "7" 1>
 </Components>
 <Wires>
   <750 480 750 520 "" 0 0 0 "">

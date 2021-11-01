@@ -2,17 +2,17 @@ QucsTranscalc 0.0.20 GUI Settings File
 <Microstrip>
   Er 4.5 NA
   Mur 1 NA
-  H 1.6 mm
+  H 0.6 mm
   H_t 1e+20 mil
   T 35 um
   Cond 4.1e+07 NA
   Tand 0.03 NA
   Rough 2.2e-08 m
   Freq 5.8 GHz
-  W 3.05129 mm
-  L 13.756 mm
-  Z0 50 Ohm
-  Ang_l 180 Deg
+  W 4.67281 mm
+  L 6.5277 mm
+  Z0 18 Ohm
+  Ang_l 90 Deg
 </Microstrip>
 <Coplanar>
   Er 2.94 NA

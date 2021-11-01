@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=0,-240,1530,1047,1,0,60>
+  <View=0,-240,1530,1047,1,0,58>
   <Grid=10,10,1>
   <DataSet=diode_reactance_meas.dat>
   <DataDisplay=diode_reactance_meas.dpl>
@@ -27,8 +27,8 @@
   <Vac V1 1 430 360 18 -26 0 1 "v_bias" 1 "2.45 GHz" 0 "0" 0 "0" 0>
   <GND * 5 430 430 0 0 0 0>
   <GND * 5 600 430 0 0 0 0>
-  <Sub SUB1 1 600 350 28 -22 0 1 "BBY66-02V-SC79.sch" 1>
   <Eqn Eqn1 1 970 110 -31 19 0 0 "reactance=imag(v_bias/V1.i)" 1 "reactance_5_725_GHz=reactance[:,0]" 1 "reactance_5_8_GHz=reactance[:,1]" 1 "reactance_5_875_GHz=reactance[:,2]" 1 "Z_tl24=sqrt(reactance_5_725_GHz[1000]*reactance_5_875_GHz[3300])" 1 "yes" 0>
+  <Sub SUB1 1 600 350 25 -22 0 1 "SMV1763-079LF.sch" 1>
 </Components>
 <Wires>
   <430 390 430 430 "" 0 0 0 "">

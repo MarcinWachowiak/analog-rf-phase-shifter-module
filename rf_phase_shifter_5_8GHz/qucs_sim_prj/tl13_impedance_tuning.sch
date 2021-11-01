@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-249,1579,950,1.1,701,0>
+  <View=-733,-189,1579,950,1.1,0,0>
   <Grid=10,10,1>
   <DataSet=tl13_impedance_tuning.dat>
   <DataDisplay=tl13_impedance_tuning.dpl>
@@ -47,14 +47,14 @@
   <Eqn Eqn1 1 1080 -30 -31 19 0 0 "phase_shift=rad2deg(angle(out.v) - angle(in.v))" 1 "attenuation=dB(mag(out.v)/mag(in.v))" 1 "yes" 0>
   <.SP SP1 0 880 -40 0 78 0 0 "lin" 1 "5.725 GHz" 1 "5.875 GHz" 1 "1001" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
   <Eqn S_param_db_calc 0 910 180 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
-  <Sub SUB1 1 750 540 -15 -129 0 1 "BBY66-02V-SC79.sch" 1>
-  <Sub SUB3 1 940 530 22 -18 0 1 "BBY66-02V-SC79.sch" 1>
-  <Sub SUB4 1 940 740 24 -17 0 1 "BBY66-02V-SC79.sch" 1>
-  <Sub SUB2 1 750 740 -19 78 0 1 "BBY66-02V-SC79.sch" 1>
   <.AC AC1 1 390 50 0 46 0 0 "lin" 1 "5.725 GHz" 1 "5.875 GHz" 1 "3" 1 "no" 0>
   <SPfile X8 1 380 580 -117 118 1 3 "./sim_lib/C5060J5003AHF_SParam.s4p" 1 "rectangular" 0 "linear" 0 "unspecified" 0 "4" 0>
-  <Eqn Transmission_line_params 1 190 -30 -31 19 0 0 "z_tl24=60" 1 "yes" 0>
-  <.SW SW2 1 580 -40 0 78 0 0 "AC1" 1 "lin" 1 "z_tl13" 1 "70 Ohm" 1 "90 Ohm" 1 "6" 1>
+  <Eqn Transmission_line_params 1 190 -30 -31 19 0 0 "z_tl24=18" 1 "yes" 0>
+  <Sub SUB4 1 940 740 21 -17 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB2 1 750 740 -16 82 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB3 1 940 530 19 -18 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB1 1 750 540 -15 -123 0 1 "SMV1763-079LF.sch" 1>
+  <.SW SW2 1 580 -40 0 78 0 0 "AC1" 1 "lin" 1 "z_tl13" 1 "20 Ohm" 1 "100 Ohm" 1 "5" 1>
 </Components>
 <Wires>
   <750 480 750 520 "" 0 0 0 "">
