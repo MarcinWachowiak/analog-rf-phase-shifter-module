@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-138,1579,883,1.1,902,0>
+  <View=-733,-138,1579,883,1.1,810,0>
   <Grid=10,10,1>
   <DataSet=tl24_length_tuning.dat>
   <DataDisplay=tl24_length_tuning.dpl>
@@ -31,14 +31,13 @@
   <Vdc V1 1 410 380 -95 -25 0 1 "v_bias" 1>
   <GND * 5 410 430 0 0 0 0>
   <SPfile X8 1 380 580 -117 118 1 3 "./sim_lib/C2327J5003AHF_SParam.s4p" 1 "rectangular" 0 "linear" 0 "unspecified" 0 "4" 0>
-  <TLIN Line3 1 640 690 -26 20 0 0 "z_tl13" 1 "quarter_wavelength" 1 "0 dB" 0 "26.85" 0>
-  <TLIN Line1 1 640 480 -26 20 0 0 "z_tl13" 1 "quarter_wavelength" 1 "0 dB" 0 "26.85" 0>
+  <TLIN Line3 1 640 690 -26 20 0 0 "z_tl13" 1 "custom_length" 1 "0 dB" 0 "26.85" 0>
+  <TLIN Line1 1 640 480 -26 20 0 0 "z_tl13" 1 "custom_length" 1 "0 dB" 0 "26.85" 0>
   <L L2 1 452 398 10 -26 0 1 "220 nH" 1 "" 0>
   <L L1 1 550 400 10 -26 0 1 "220 nH" 1 "" 0>
   <SUBST Subst1 1 50 -40 -30 24 0 0 "4.5" 1 "0.6 mm" 1 "35 um" 1 "0.03" 1 "0.022e-6" 1 "2.388e-3" 1>
   <.DC DC1 1 390 -80 0 46 0 0 "26.85" 0 "0.001" 0 "1 pA" 0 "1 uV" 0 "no" 0 "150" 0 "no" 0 "none" 0 "CroutLU" 0>
   <.AC AC1 1 390 10 0 46 0 0 "lin" 1 "2.40 GHz" 1 "2.50 GHz" 1 "3" 1 "no" 0>
-  <Eqn TL_length 1 190 120 -31 19 0 0 "center_freq=2.45e+9" 1 "c0=299792458" 1 "wavelength=c0/center_freq" 1 "tl_length=frac_of_lambda*wavelength" 1 "quarter_wavelength=0.25*wavelength" 1 "yes" 0>
   <.SW SW1 1 780 -80 0 78 0 0 "SW2" 1 "lin" 1 "v_bias" 1 "0 V" 1 "3.3 V" 1 "111" 1>
   <Eqn Eqn1 1 1130 -70 -31 19 0 0 "phase_shift=rad2deg(angle(out.v) - angle(in.v))" 1 "attenuation=dB(mag(out.v)/mag(in.v))" 1 "yes" 0>
   <.SP SP1 0 930 -80 0 78 0 0 "lin" 1 "2.0 GHz" 1 "3.0 GHz" 1 "1001" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
@@ -49,12 +48,13 @@
   <GND * 5 990 790 0 0 0 0>
   <TLIN Line2 1 880 480 -26 20 0 0 "z_tl24" 1 "tl_length" 1 "0 dB" 0 "26.85" 0>
   <TLIN Line4 1 880 690 -26 20 0 0 "z_tl24" 1 "tl_length" 1 "0 dB" 0 "26.85" 0>
-  <.SW SW2 1 580 -80 0 78 0 0 "AC1" 1 "lin" 1 "frac_of_lambda" 1 "0.2" 1 "0.3" 1 "5" 1>
-  <Eqn Transmission_line_params 1 190 -80 -31 19 0 0 "z_tl24=10" 1 "z_tl13=20" 1 "yes" 0>
+  <Eqn Transmission_line_params 1 190 -80 -31 19 0 0 "z_tl24=30" 1 "z_tl13=30" 1 "yes" 0>
   <Sub SUB1 1 800 540 -15 -123 0 1 "SMV1763-079LF.sch" 1>
   <Sub SUB3 1 990 530 19 -18 0 1 "SMV1763-079LF.sch" 1>
   <Sub SUB2 1 800 740 -16 82 0 1 "SMV1763-079LF.sch" 1>
   <Sub SUB4 1 990 740 21 -17 0 1 "SMV1763-079LF.sch" 1>
+  <.SW SW2 1 580 -80 0 78 0 0 "AC1" 1 "lin" 1 "frac_of_lambda" 1 "0.05" 1 "0.2" 1 "7" 1>
+  <Eqn TL_length 1 190 120 -31 19 0 0 "center_freq=2.45e+9" 1 "c0=299792458" 1 "wavelength=c0/center_freq" 1 "tl_length=frac_of_lambda*wavelength" 1 "quarter_wavelength=0.25*wavelength" 1 "custom_length=0.29*wavelength" 1 "yes" 0>
 </Components>
 <Wires>
   <60 570 60 600 "" 0 0 0 "">

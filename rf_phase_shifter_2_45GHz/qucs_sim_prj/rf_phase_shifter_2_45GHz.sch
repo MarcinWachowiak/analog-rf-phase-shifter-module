@@ -41,7 +41,7 @@
   <.SW SW1 1 570 10 0 78 0 0 "AC1" 1 "lin" 1 "v_bias" 1 "0 V" 1 "3.3 V" 1 "1111" 1>
   <Eqn S_param_db_calc 1 1270 20 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
   <Eqn Eqn1 1 920 20 -31 19 0 0 "phase_shift=rad2deg(angle(out.v) - angle(in.v))" 1 "attenuation=dB(mag(out.v)/mag(in.v))" 1 "att_2_40GHz=attenuation[:,0]" 1 "att_2_45GHz=attenuation[:,1]" 1 "att_2_50GHz=attenuation[:,2]" 1 "pha_shift_2_40GHz=phase_shift[:,0]" 1 "pha_shift_2_45GHz=phase_shift[:,1]" 1 "pha_shift_2_50GHz=phase_shift[:,2]" 1 "out_v_2_40GHz=out.v[:,0]" 1 "out_v_2_45GHz=out.v[:,1]" 1 "out_v_2_50GHz=out.v[:,2]" 1 "yes" 0>
-  <Eqn Transmission_line_params 1 170 20 -31 19 0 0 "tl13_width_m=0.004085" 1 "tl13_length_m=0.01601" 1 "tl24_width_m=0.009283" 1 "tl24_length_m=0.015446" 1 "yes" 0>
+  <Eqn Transmission_line_params 1 170 20 -31 19 0 0 "tl13_width_m=0.002401" 1 "tl13_length_m=0.01875" 1 "tl24_width_m=0.002401" 1 "tl24_length_m=0.006448" 1 "yes" 0>
   <MLIN MS1 1 620 480 -26 15 0 0 "Subst1" 1 "tl13_width_m" 1 "tl13_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>
   <MLIN MS3 1 620 690 -26 15 0 0 "Subst1" 1 "tl13_width_m" 1 "tl13_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>
   <MLIN MS2 1 810 480 -26 15 0 0 "Subst1" 1 "tl24_width_m" 1 "tl24_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>

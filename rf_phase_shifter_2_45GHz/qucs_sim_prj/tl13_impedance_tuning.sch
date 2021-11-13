@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-249,1579,985,1.1,819,120>
+  <View=-733,-249,1579,985,1.1,810,120>
   <Grid=10,10,1>
   <DataSet=tl13_impedance_tuning.dat>
   <DataDisplay=tl13_impedance_tuning.dpl>

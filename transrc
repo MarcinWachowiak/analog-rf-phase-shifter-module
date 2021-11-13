@@ -8,11 +8,11 @@ QucsTranscalc 0.0.20 GUI Settings File
   Cond 4.1e+07 NA
   Tand 0.03 NA
   Rough 2.2e-08 m
-  Freq 5.8 GHz
-  W 4.67281 mm
-  L 6.5277 mm
-  Z0 18 Ohm
-  Ang_l 90 Deg
+  Freq 2.4 GHz
+  W 2.40065 mm
+  L 18.6511 mm
+  Z0 30 Ohm
+  Ang_l 102 Deg
 </Microstrip>
 <Coplanar>
   Er 2.94 NA
