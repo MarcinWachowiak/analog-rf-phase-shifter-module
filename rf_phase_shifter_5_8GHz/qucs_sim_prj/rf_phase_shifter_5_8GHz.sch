@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-329,1653,1006,1,653,0>
+  <View=-733,-389,1653,1006,1,653,0>
   <Grid=10,10,1>
   <DataSet=rf_phase_shifter_5_8GHz.dat>
   <DataDisplay=rf_phase_shifter_5_8GHz.dpl>
@@ -38,7 +38,7 @@
   <.DC DC1 1 390 0 0 46 0 0 "26.85" 0 "0.001" 0 "1 pA" 0 "1 uV" 0 "no" 0 "150" 0 "no" 0 "none" 0 "CroutLU" 0>
   <.SW SW1 1 590 0 0 78 0 0 "AC1" 1 "lin" 1 "v_bias" 1 "0 V" 1 "3.3 V" 1 "1111" 1>
   <Eqn S_param_db_calc 1 1290 10 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
-  <Eqn Transmission_line_params 1 190 10 -31 19 0 0 "tl13_width_m=0.0007903" 1 "tl13_length_m=0.0071875" 1 "tl24_width_m=0.004673" 1 "tl24_length_m=0.0065277" 1 "yes" 0>
+  <Eqn Transmission_line_params 1 190 10 -31 19 0 0 "tl13_width_m=0.0007903" 1 "tl13_length_m=0.008944" 1 "tl24_width_m=0.004673" 1 "tl24_length_m=0.0065277" 1 "yes" 0>
   <MLIN MS1 1 640 470 -26 15 0 0 "Subst1" 1 "tl13_width_m" 1 "tl13_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>
   <MLIN MS3 1 640 680 -26 15 0 0 "Subst1" 1 "tl13_width_m" 1 "tl13_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>
   <MLIN MS2 1 830 470 -26 15 0 0 "Subst1" 1 "tl24_width_m" 1 "tl24_length_m" 1 "Hammerstad" 0 "Kirschning" 0 "26.85" 0>

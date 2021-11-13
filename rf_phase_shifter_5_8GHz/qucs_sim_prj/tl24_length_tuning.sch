@@ -53,7 +53,7 @@
   <Sub SUB2 1 800 740 -16 82 0 1 "SMV1763-079LF.sch" 1>
   <Sub SUB4 1 990 740 21 -17 0 1 "SMV1763-079LF.sch" 1>
   <Eqn Transmission_line_params 1 190 -80 -31 19 0 0 "z_tl24=18" 1 "z_tl13=60" 1 "yes" 0>
-  <Eqn TL_length 1 190 120 -31 19 0 0 "center_freq=5.8e+9" 1 "c0=299792458" 1 "wavelength=c0/center_freq" 1 "tl_length=frac_of_lambda*wavelength" 1 "quarter_wavelength=0.25*wavelength" 1 "custom_length=0.25*wavelength" 1 "yes" 0>
+  <Eqn TL_length 1 190 120 -31 19 0 0 "center_freq=5.8e+9" 1 "c0=299792458" 1 "wavelength=c0/center_freq" 1 "tl_length=frac_of_lambda*wavelength" 1 "quarter_wavelength=0.25*wavelength" 1 "custom_length=0.325*wavelength" 1 "yes" 0>
   <.SW SW2 1 580 -80 0 78 0 0 "AC1" 1 "lin" 1 "frac_of_lambda" 1 "0.2" 1 "0.45" 1 "11" 1>
 </Components>
 <Wires>

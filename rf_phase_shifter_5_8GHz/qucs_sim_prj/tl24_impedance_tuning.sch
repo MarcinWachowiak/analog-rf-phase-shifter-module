@@ -50,11 +50,11 @@
   <.DC DC1 1 450 10 0 46 0 0 "26.85" 0 "0.001" 0 "1 pA" 0 "1 uV" 0 "no" 0 "150" 0 "no" 0 "none" 0 "CroutLU" 0>
   <.AC AC1 1 450 100 0 46 0 0 "lin" 1 "5.725 GHz" 1 "5.875 GHz" 1 "3" 1 "no" 0>
   <SPfile X8 1 380 580 -117 118 1 3 "./sim_lib/C5060J5003AHF_SParam.s4p" 1 "rectangular" 0 "linear" 0 "unspecified" 0 "4" 0>
-  <Sub SUB4 1 940 740 21 -17 0 1 "SMV1763-079LF.sch" 1>
-  <Sub SUB2 1 750 740 -16 82 0 1 "SMV1763-079LF.sch" 1>
-  <Sub SUB3 1 940 530 19 -18 0 1 "SMV1763-079LF.sch" 1>
   <Sub SUB1 1 750 540 -15 -123 0 1 "SMV1763-079LF.sch" 1>
-  <.SW SW2 1 640 10 0 78 0 0 "AC1" 1 "lin" 1 "z_tl24" 1 "10 Ohm" 1 "20 Ohm" 1 "6" 1>
+  <Sub SUB3 1 940 530 19 -18 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB2 1 750 740 -16 82 0 1 "SMV1763-079LF.sch" 1>
+  <Sub SUB4 1 940 740 21 -17 0 1 "SMV1763-079LF.sch" 1>
+  <.SW SW2 1 640 10 0 78 0 0 "AC1" 1 "lin" 1 "z_tl24" 1 "14 Ohm" 1 "26 Ohm" 1 "7" 1>
 </Components>
 <Wires>
   <750 480 750 520 "" 0 0 0 "">

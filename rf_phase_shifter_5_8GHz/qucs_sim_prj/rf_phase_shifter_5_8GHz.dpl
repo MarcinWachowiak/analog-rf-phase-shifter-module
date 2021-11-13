@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-175,-464,1511,759,0.922961,0,0>
+  <View=-175,-524,1511,759,0.922961,0,0>
   <Grid=10,10,0>
   <DataSet=rf_phase_shifter_5_8GHz.dat>
   <DataDisplay=rf_phase_shifter_5_8GHz.sch>
@@ -45,8 +45,8 @@
   </Rect>
   <Rect -20 220 240 160 3 #c0c0c0 1 00 1 -1 0.5 1 1 -1 1 1 1 -1 1 1 315 0 225 "" "" "" "">
 	<"att_5_8GHz" #0000ff 0 3 0 0 0>
-	  <Mkr 1.12973 262 -75 3 0 0>
-	  <Mkr 2.58946 277 -295 3 0 0>
+	  <Mkr 1.77486 262 -65 3 0 0>
+	  <Mkr 3.3 267 -175 3 0 0>
   </Rect>
 </Diagrams>
 <Paintings>
