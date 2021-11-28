@@ -1,6 +1,6 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-169,1653,1120,1,559,60>
+  <View=-733,-169,1653,1120,1,697,60>
   <Grid=10,10,1>
   <DataSet=rf_phase_shifter_2_45GHz.dat>
   <DataDisplay=rf_phase_shifter_2_45GHz.dpl>
