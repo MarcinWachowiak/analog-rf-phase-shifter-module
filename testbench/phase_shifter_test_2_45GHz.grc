@@ -10,7 +10,7 @@ options:
     gen_linking: dynamic
     generate_options: qt_gui
     hier_block_src_path: '.:'
-    id: phase_shifter_test_2_45GHz
+    id: run_phase_shifter_test
     max_nouts: '0'
     output_language: python
     placement: (0,0)
@@ -18,10 +18,10 @@ options:
     realtime_scheduling: ''
     run: 'True'
     run_command: '{python} -u {filename}'
-    run_options: prompt
+    run_options: run
     sizing_mode: fixed
     thread_safe_setters: ''
-    title: Not titled yet
+    title: Analog phase shifter testbench
     window_size: ''
   states:
     bus_sink: false
@@ -32,72 +32,18 @@ options:
     state: enabled
 
 blocks:
-- name: center_freq
-  id: variable
-  parameters:
-    comment: ''
-    value: int(2.45e9)
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [272, 12.0]
-    rotation: 0
-    state: true
-- name: rx_gain
-  id: variable_qtgui_range
-  parameters:
-    comment: ''
-    gui_hint: ''
-    label: ''
-    min_len: '200'
-    orient: Qt.Horizontal
-    rangeType: float
-    start: '0'
-    step: '1'
-    stop: '74'
-    value: '10'
-    widget: counter_slider
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [840, 76.0]
-    rotation: 0
-    state: true
 - name: samp_rate
   id: variable
   parameters:
     comment: ''
-    value: int(6e+5)
+    value: int(1e+6)
   states:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [184, 12]
+    coordinate: [200, 12.0]
     rotation: 0
     state: enabled
-- name: tx_att
-  id: variable_qtgui_range
-  parameters:
-    comment: ''
-    gui_hint: ''
-    label: ''
-    min_len: '200'
-    orient: Qt.Horizontal
-    rangeType: float
-    start: '0'
-    step: '1'
-    stop: '89'
-    value: '70'
-    widget: counter_slider
-  states:
-    bus_sink: false
-    bus_source: false
-    bus_structure: null
-    coordinate: [544, 108.0]
-    rotation: 0
-    state: true
 - name: analog_sig_source_x_0
   id: analog_sig_source_x
   parameters:
@@ -117,7 +63,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [288, 252.0]
+    coordinate: [32, 148.0]
     rotation: 0
     state: true
 - name: aoa_calc_phase_diff_0
@@ -129,12 +75,64 @@ blocks:
     maxoutbuf: '0'
     minoutbuf: '0'
     node_idx: '1'
-    norm_spacing: '0.5'
+    norm_spacing: '0.0'
   states:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1256, 552.0]
+    coordinate: [272, 336.0]
+    rotation: 0
+    state: true
+- name: aoa_precise_moving_average_0
+  id: aoa_precise_moving_average
+  parameters:
+    affinity: ''
+    alias: ''
+    comment: ''
+    length: '10000'
+    max_iter: '4096'
+    maxoutbuf: '0'
+    minoutbuf: '0'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [624, 340.0]
+    rotation: 0
+    state: true
+- name: blocks_skiphead_0
+  id: blocks_skiphead
+  parameters:
+    affinity: ''
+    alias: ''
+    comment: ''
+    maxoutbuf: '0'
+    minoutbuf: '0'
+    num_items: int(1e+6)
+    type: float
+    vlen: '1'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [496, 348.0]
+    rotation: 0
+    state: true
+- name: center_freq
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: ''
+    short_id: ''
+    type: intx
+    value: int(2.45e+9)
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [376, 12.0]
     rotation: 0
     state: true
 - name: iio_pluto_sink_0
@@ -145,7 +143,7 @@ blocks:
     attenuation1: tx_att
     auto_filter: 'True'
     bandwidth: samp_rate
-    buffer_size: 32768*4
+    buffer_size: '32768'
     comment: ''
     cyclic: 'False'
     filter: ''
@@ -156,7 +154,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [528, 228.0]
+    coordinate: [432, 124.0]
     rotation: 0
     state: true
 - name: iio_pluto_source_0
@@ -167,7 +165,7 @@ blocks:
     auto_filter: 'True'
     bandwidth: samp_rate
     bbdc: 'True'
-    buffer_size: 32768*4
+    buffer_size: '32768'
     comment: ''
     filter: ''
     frequency: center_freq
@@ -183,7 +181,24 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [832, 196.0]
+    coordinate: [32, 276.0]
+    rotation: 0
+    state: true
+- name: n_samp
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: ''
+    short_id: ''
+    type: intx
+    value: int(1e+3)
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [648, 12.0]
     rotation: 0
     state: true
 - name: qtgui_const_sink_x_0
@@ -275,9 +290,9 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1168, 212.0]
+    coordinate: [272, 436.0]
     rotation: 0
-    state: true
+    state: enabled
 - name: qtgui_freq_sink_x_0
   id: qtgui_freq_sink_x
   parameters:
@@ -355,9 +370,72 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1168, 288.0]
+    coordinate: [272, 512.0]
     rotation: 0
-    state: true
+    state: enabled
+- name: qtgui_number_sink_0
+  id: qtgui_number_sink
+  parameters:
+    affinity: ''
+    alias: ''
+    autoscale: 'False'
+    avg: '0'
+    color1: ("black", "black")
+    color10: ("black", "black")
+    color2: ("black", "black")
+    color3: ("black", "black")
+    color4: ("black", "black")
+    color5: ("black", "black")
+    color6: ("black", "black")
+    color7: ("black", "black")
+    color8: ("black", "black")
+    color9: ("black", "black")
+    comment: ''
+    factor1: '1'
+    factor10: '1'
+    factor2: '1'
+    factor3: '1'
+    factor4: '1'
+    factor5: '1'
+    factor6: '1'
+    factor7: '1'
+    factor8: '1'
+    factor9: '1'
+    graph_type: qtgui.NUM_GRAPH_HORIZ
+    gui_hint: ''
+    label1: ''
+    label10: ''
+    label2: ''
+    label3: ''
+    label4: ''
+    label5: ''
+    label6: ''
+    label7: ''
+    label8: ''
+    label9: ''
+    max: '3.2'
+    min: '-3.2'
+    name: '"Phase shift in radians"'
+    nconnections: '1'
+    type: float
+    unit1: ''
+    unit10: ''
+    unit2: ''
+    unit3: ''
+    unit4: ''
+    unit5: ''
+    unit6: ''
+    unit7: ''
+    unit8: ''
+    unit9: ''
+    update_time: '0.10'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [832, 324.0]
+    rotation: 0
+    state: enabled
 - name: qtgui_time_sink_x_0
   id: qtgui_time_sink_x
   parameters:
@@ -373,7 +451,7 @@ blocks:
     alpha7: '1.0'
     alpha8: '1.0'
     alpha9: '1.0'
-    autoscale: 'False'
+    autoscale: 'True'
     axislabels: 'True'
     color1: blue
     color10: dark blue
@@ -452,13 +530,67 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1168, 396.0]
+    coordinate: [272, 636.0]
+    rotation: 0
+    state: enabled
+- name: rx_gain
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: ''
+    short_id: ''
+    type: intx
+    value: '30'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [560, 12.0]
+    rotation: 0
+    state: true
+- name: tx_att
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: ''
+    short_id: ''
+    type: intx
+    value: '30'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [472, 12.0]
+    rotation: 0
+    state: true
+- name: v_bias
+  id: parameter
+  parameters:
+    alias: ''
+    comment: ''
+    hide: none
+    label: ''
+    short_id: ''
+    type: eng_float
+    value: '0'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [288, 12.0]
     rotation: 0
     state: true
 
 connections:
 - [analog_sig_source_x_0, '0', aoa_calc_phase_diff_0, '0']
 - [analog_sig_source_x_0, '0', iio_pluto_sink_0, '0']
+- [aoa_calc_phase_diff_0, '0', blocks_skiphead_0, '0']
+- [aoa_precise_moving_average_0, '0', qtgui_number_sink_0, '0']
+- [blocks_skiphead_0, '0', aoa_precise_moving_average_0, '0']
 - [iio_pluto_source_0, '0', aoa_calc_phase_diff_0, '1']
 - [iio_pluto_source_0, '0', qtgui_const_sink_x_0, '0']
 - [iio_pluto_source_0, '0', qtgui_freq_sink_x_0, '0']
