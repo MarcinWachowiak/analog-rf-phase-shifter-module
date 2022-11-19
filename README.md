@@ -12,13 +12,13 @@ Analog RF phase shifter module for 2.45 GHz and 5.8 GHz. Phase shift range up to
   
     **PCB:**
     
-    <img src="rf_phase_shifter_2_45GHz/doc/top.jpg" alt="2_45GHz_top" width="300"/>
-    <img src="rf_phase_shifter_2_45GHz/doc/bottom.jpg" alt="2_45GHz_bottom" width="300"/>
+    <img src="rf_phase_shifter_distributed_2_45GHz/doc/top.jpg" alt="2_45GHz_top" width="300"/>
+    <img src="rf_phase_shifter_distributed_2_45GHz/doc/bottom.jpg" alt="2_45GHz_bottom" width="300"/>
 
 
     **Simualtion results:**
     
-    <img src="rf_phase_shifter_2_45GHz/doc/sim_results.png" alt="simulation_results_2_45GHz" width="600"/>
+    <img src="rf_phase_shifter_distributed_2_45GHz/doc/sim_results.png" alt="simulation_results_2_45GHz" width="600"/>
 
     <br>
 
@@ -26,12 +26,12 @@ Analog RF phase shifter module for 2.45 GHz and 5.8 GHz. Phase shift range up to
     
     **PCB:**
     
-    <img src="rf_phase_shifter_5_8GHz/doc/top.jpg" alt="5_8GHz_top" width="300"/>
-    <img src="rf_phase_shifter_5_8GHz/doc/bottom.jpg" alt="5_8GHz_bottom" width="300"/>
+    <img src="rf_phase_shifter_distributed_5_8GHz/doc/top.jpg" alt="5_8GHz_top" width="300"/>
+    <img src="rf_phase_shifter_distributed_5_8GHz/doc/bottom.jpg" alt="5_8GHz_bottom" width="300"/>
 
     **Simualtion results:**
 
-    <img src="rf_phase_shifter_5_8GHz/doc/sim_results.png" alt="simulation_results_5_8GHz" width="600"/>
+    <img src="rf_phase_shifter_distributed_5_8GHz/doc/sim_results.png" alt="simulation_results_5_8GHz" width="600"/>
 
   
 

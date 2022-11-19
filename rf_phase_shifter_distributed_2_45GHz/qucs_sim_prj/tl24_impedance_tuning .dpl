@@ -1,0 +1,28 @@
+<Qucs Schematic 0.0.20>
+<Properties>
+  <View=0,-360,1635,1227,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=tl13_lenght_tuning.dat>
+  <DataDisplay=tl13_lenght_tuning.sch>
+  <OpenDisplay=1>
+  <Script=tl13_lenght_tuning.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Tab 110 245 396 525 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1665 315 0 225 "" "" "" "">
+	<"attenuation" #0000ff 0 3 1 0 0>
+  </Tab>
+</Diagrams>
+<Paintings>
+</Paintings>
