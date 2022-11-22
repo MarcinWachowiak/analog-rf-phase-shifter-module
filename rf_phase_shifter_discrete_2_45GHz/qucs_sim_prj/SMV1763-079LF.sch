@@ -1,9 +1,9 @@
-<Qucs Schematic 0.0.20>
+<Qucs Schematic 1.0.0>
 <Properties>
   <View=0,-360,1268,997,1.21,0,0>
   <Grid=5,5,1>
-  <DataSet=bby66-02v-sc79.dat>
-  <DataDisplay=bby66-02v-sc79.dpl>
+  <DataSet=SMV1763-079LF.dat>
+  <DataDisplay=SMV1763-079LF.dpl>
   <OpenDisplay=1>
   <Script=bby66-02v-sc79.m>
   <RunScript=0>
@@ -26,9 +26,9 @@
   <.PortSym 20 0 2 180>
 </Symbol>
 <Components>
-  <Port P1 1 220 25 -23 12 0 0 "1" 1 "analog" 0>
+  <Port P1 1 220 25 -23 12 0 0 "1" 1 "analog" 0 "v" 0 "" 0>
   <L L1 1 300 25 -26 10 0 0 "0.7nH" 1 "" 0>
-  <Port P2 1 680 25 4 -50 0 2 "2" 1 "analog" 0>
+  <Port P2 1 680 25 4 -50 0 2 "2" 1 "analog" 0 "v" 0 "" 0>
   <R R1 1 440 85 -26 15 0 0 "0.5 Ohm" 1 "26.85" 0 "0.0" 0 "0.0" 0 "26.85" 0 "european" 0>
   <C C1 1 490 -15 -26 17 0 0 "1.42 pF" 1 "" 0 "neutral" 0>
   <Diode D1 1 560 85 -39 22 0 2 "1.00e-14" 1 "1" 1 "7.63 pF" 1 "20" 1 "26.7 V" 1 "0.5" 1 "0.0 fF" 1 "0.0" 0 "2.0" 0 "0" 1 "0" 1 "0" 0 "0.0" 0 "1.0" 0 "1.0" 0 "0" 1 "1e-3" 1 "26.85" 0 "3.0" 1 "1.11" 1 "0.0" 0 "0.0" 0 "0.0" 0 "0.0" 0 "0.0" 0 "0.0" 0 "26.85" 0 "1.0" 0 "Varactor" 0>

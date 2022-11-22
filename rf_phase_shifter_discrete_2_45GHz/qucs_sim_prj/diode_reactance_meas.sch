@@ -1,4 +1,4 @@
-<Qucs Schematic 0.0.20>
+<Qucs Schematic 1.0.0>
 <Properties>
   <View=0,-240,1530,1047,1,0,58>
   <Grid=10,10,1>
@@ -24,7 +24,7 @@
   <.AC AC1 1 600 100 0 46 0 0 "lin" 1 "2.4 GHz" 1 "2.5 GHz" 1 "3" 1 "no" 0>
   <.DC DC1 1 410 100 0 46 0 0 "26.85" 0 "0.001" 0 "1 pA" 0 "1 uV" 0 "no" 0 "150" 0 "no" 0 "none" 0 "CroutLU" 0>
   <Eqn Eqn1 1 970 110 -31 19 0 0 "reactance=imag(v_bias/V1.i)" 1 "reactance_2_40_GHz=reactance[:,0]" 1 "reactance_2_45_GHz=reactance[:,1]" 1 "reactance_2_50_GHz=reactance[:,2]" 1 "Z_tl24=sqrt(reactance_2_45_GHz[1000]*reactance_2_45_GHz[3300])" 1 "yes" 0>
-  <.SW SW1 1 790 100 0 77 0 0 "AC1" 1 "lin" 1 "v_bias" 1 "0 V" 1 "3.3 V" 1 "3301" 1>
+  <.SW SW1 1 790 100 0 77 0 0 "AC1" 1 "lin" 1 "v_bias" 1 "0 V" 1 "3.3 V" 1 "3301" 1 "false" 0>
   <Vac V1 1 430 360 18 -26 0 1 "v_bias" 1 "2.45 GHz" 0 "0" 0 "0" 0>
   <GND * 5 430 430 0 0 0 0>
   <GND * 5 600 430 0 0 0 0>
