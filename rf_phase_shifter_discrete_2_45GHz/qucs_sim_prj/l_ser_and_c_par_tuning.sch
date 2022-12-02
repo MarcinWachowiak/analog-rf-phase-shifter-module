@@ -1,11 +1,11 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-733,-139,1752,985,0.909091,733,0>
+  <View=-733,-19,1842,1069,1,947,0>
   <Grid=10,10,1>
-  <DataSet=l_ser_tuning.dat>
-  <DataDisplay=l_ser_tuning.dpl>
+  <DataSet=l_ser_and_c_par_tuning.dat>
+  <DataDisplay=l_ser_and_c_par_tuning.dpl>
   <OpenDisplay=1>
-  <Script=l_ser_tuning.m>
+  <Script=l_ser_and_c_par_tuning.m>
   <RunScript=1>
   <showFrame=0>
   <FrameText0=Title>
@@ -55,12 +55,12 @@
   <Sub SUB2 1 920 690 -19 78 0 1 "SMV1763-079LF.sch" 1>
   <C C4 1 360 890 17 -26 0 1 "c_par" 1 "" 0 "neutral" 0>
   <C C5 1 1180 890 17 -26 0 1 "c_par" 1 "" 0 "neutral" 0>
-  <.SP SP1 0 910 10 0 77 0 0 "lin" 1 "2.4 GHz" 1 "2.5 GHz" 1 "1001" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
-  <Eqn S_param_db_calc 0 1150 20 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
-  <Eqn Eqn1 1 1150 160 -31 19 0 0 "phase_shift=rad2deg(angle(out.v) - angle(in.v))" 1 "attenuation=dB(mag(out.v)/mag(in.v))" 1 "yes" 0>
+  <.SP SP1 0 1080 10 0 77 0 0 "lin" 1 "2.4 GHz" 1 "2.5 GHz" 1 "1001" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
+  <Eqn S_param_db_calc 0 1320 20 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
+  <Eqn Eqn1 1 1320 160 -31 19 0 0 "phase_shift=rad2deg(angle(out.v) - angle(in.v))" 1 "attenuation=dB(mag(out.v)/mag(in.v))" 1 "yes" 0>
+  <.SW SW3 1 910 10 0 68 0 0 "AC1" 1 "lin" 1 "l_ser" 1 "1 nH" 1 "5 nH" 1 "5" 1>
+  <.SW SW2 1 740 10 0 67 0 0 "SW3" 1 "lin" 1 "c_par" 1 "1 pF" 1 "5 pF" 1 "5" 1>
   <.SW SW1 1 570 10 0 78 0 0 "SW2" 1 "lin" 1 "v_bias" 1 "0 V" 1 "3.3 V" 1 "1111" 1>
-  <.SW SW2 1 740 10 0 68 0 0 "AC1" 1 "lin" 1 "l_ser" 1 "1 nH" 1 "5 nH" 1 "11" 1>
-  <Eqn Eqn2 1 250 20 -34 16 0 0 "c_par=1.5 p" 1 "yes" 0>
 </Components>
 <Wires>
   <1500 500 1500 520 "" 0 0 0 "">
