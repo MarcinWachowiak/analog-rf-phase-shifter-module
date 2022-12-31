@@ -1,7 +1,11 @@
 # Analog RF phase shifter module
 <div align="justify">
-Analog RF phase shifter modules for 2.45 GHz or 5.8 GHz. Phase shift range up to 360° for input voltage of 0 - 3.3V.
+Analog RF phase shifter modules for 2.45 GHz or 5.8 GHz. Phase shift range up to 360° for input voltage of 0 - 3.3V
+
+**There is a discrepancy between the simulation results and testbed measurements. 
+A more detailed analysis of parasitics and fine-tuning of component values is advised.**
 </div>
+
 
 <br>
 
