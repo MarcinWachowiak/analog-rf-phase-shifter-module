@@ -6,9 +6,6 @@ Analog RF phase shifter modules for 2.45 GHz or 5.8 GHz. Phase shift range up to
 A more detailed analysis of parasitics and fine-tuning of component values is advised.**
 </div>
 
-
-<br>
-
   - **2.45 GHz distributed components version**
 
     **Manufactured prototypes:**
