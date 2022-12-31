@@ -56,11 +56,11 @@
   <.SP SP1 0 1080 10 0 77 0 0 "lin" 1 "2.4 GHz" 1 "2.5 GHz" 1 "1001" 1 "no" 0 "1" 0 "2" 0 "no" 0 "no" 0>
   <Eqn S_param_db_calc 0 1320 20 -31 19 0 0 "dBS11=dB(S[1,1])" 1 "dBS12=dB(S[1,2])" 1 "dBS21=dB(S[2,1])" 1 "dBS22=dB(S[2,2])" 1 "yes" 0>
   <Eqn Eqn1 1 1320 160 -31 19 0 0 "phase_shift=rad2deg(angle(out.v) - angle(in.v))" 1 "attenuation=dB(mag(out.v)/mag(in.v))" 1 "yes" 0>
-  <.SW SW3 1 910 10 0 68 0 0 "AC1" 1 "lin" 1 "l_ser" 1 "1 nH" 1 "3 nH" 1 "5" 1>
-  <.SW SW2 1 740 10 0 67 0 0 "SW3" 1 "lin" 1 "c_par" 1 "1 pF" 1 "3 pF" 1 "5" 1>
   <.SW SW1 1 570 10 0 78 0 0 "SW2" 1 "lin" 1 "v_bias" 1 "0 V" 1 "3.3 V" 1 "111" 1>
   <Sub SUB1 1 620 690 -9 81 0 1 "SMV1763-079LF.sch" 1>
   <Sub SUB2 1 920 690 -19 78 0 1 "SMV1763-079LF.sch" 1>
+  <.SW SW2 1 740 10 0 67 0 0 "SW3" 1 "lin" 1 "c_par" 1 "1.5 pF" 1 "2.5 pF" 1 "3" 1>
+  <.SW SW3 1 910 10 0 68 0 0 "AC1" 1 "lin" 1 "l_ser" 1 "1.5 nH" 1 "2.5 nH" 1 "3" 1>
 </Components>
 <Wires>
   <1500 500 1500 520 "" 0 0 0 "">

@@ -1,11 +1,11 @@
 <Qucs Schematic 0.0.20>
 <Properties>
-  <View=-790,-506,2036,1780,1,980,528>
+  <View=-790,-206,2036,1360,1,0,108>
   <Grid=10,10,1>
-  <DataSet=rf_phase_shifter_2_45GHz.dat>
-  <DataDisplay=rf_phase_shifter_2_45GHz.dpl>
+  <DataSet=rf_phase_shifter_2_45GHz_single.dat>
+  <DataDisplay=rf_phase_shifter_2_45GHz_single.dpl>
   <OpenDisplay=1>
-  <Script=rf_phase_shifter_2_45GHz.m>
+  <Script=>
   <RunScript=0>
   <showFrame=0>
   <FrameText0=Title>
@@ -55,10 +55,10 @@
   <Sub SUB1 1 620 690 -9 81 0 1 "SMV1763-079LF.sch" 1>
   <Sub SUB2 1 920 690 -19 78 0 1 "SMV1763-079LF.sch" 1>
   <C C3 1 770 690 14 15 0 1 "100 pF" 1 "" 0 "neutral" 0>
-  <C C4 1 360 890 17 -26 0 1 "2 pF" 1 "" 0 "neutral" 0>
-  <C C5 1 1180 890 17 -26 0 1 "2 pF" 1 "" 0 "neutral" 0>
-  <R R1 1 690 620 -38 15 0 0 "200 Ohm" 1 "26.85" 0 "0.0" 0 "0.0" 0 "26.85" 0 "european" 0>
-  <R R2 1 850 620 -51 15 0 0 "200 Ohm" 1 "26.85" 0 "0.0" 0 "0.0" 0 "26.85" 0 "european" 0>
+  <R R1 1 690 620 -38 15 0 0 "1k Ohm" 1 "26.85" 0 "0.0" 0 "0.0" 0 "26.85" 0 "european" 0>
+  <R R2 1 850 620 -51 15 0 0 "1k Ohm" 1 "26.85" 0 "0.0" 0 "0.0" 0 "26.85" 0 "european" 0>
+  <C C4 1 360 890 17 -26 0 1 "2.0 pF" 1 "" 0 "neutral" 0>
+  <C C5 1 1180 890 17 -26 0 1 "2.0 pF" 1 "" 0 "neutral" 0>
 </Components>
 <Wires>
   <1500 500 1500 520 "" 0 0 0 "">
